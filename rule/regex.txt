@@ -1,4 +1,4 @@
-# Update time: 2024-06-20 08:55:26
+# Update time: 2024-06-20 20:23:00
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,10 +55,6 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
-||d*.wanzhuang.com^
-||adstats.
-||sell*.etlong.com^
-||ap*.jj20.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -71,6 +67,7 @@ MRelateFeedAd
 ||adshare.
 ||dm-*.toutiao.com^
 ||player.letvcdn.com*.swf|
+||adstats.
 ||toujing*.top^
 ||popup.*.js*
 ||ggg.
@@ -124,9 +121,7 @@ oHead6205.appendChild( oScript6205);
 advertisers.js|
 ||yazhouyu.
 ||advertise.
-||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||onetrust.
 ||icast.
 ||gg.
 ||union.
@@ -139,6 +134,11 @@ advertisers.js|
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||onetrust.
+||d*.wanzhuang.com^
+||ap*.pl520.com^
+||sell*.etlong.com^
+||ap*.jj20.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^

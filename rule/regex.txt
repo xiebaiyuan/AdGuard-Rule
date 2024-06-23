@@ -1,4 +1,4 @@
-# Update time: 2024-06-22 20:21:11
+# Update time: 2024-06-23 09:00:13
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -54,6 +54,7 @@
 ||avito.avito.www.avito.
 ||avito.avito.avito.
 ||yandex.pay.avito.
+||sell*.etlong.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -62,7 +63,6 @@ MRelateFeedAd
 ||adsmind.
 ||adsfile.
 ||bigdata.
-||sell*.etlong.com^
 ||smartads.
 ||adshare.
 ||dm-*.toutiao.com^
@@ -156,7 +156,6 @@ advertisers.js|
 ||ysdm*.ys137.com.cn^
 ||dm*.yxlady.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
@@ -172,8 +171,8 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-<body>
 <head>
+<body>
 <!doctype html>
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -598,6 +597,7 @@ body {
 ||device-metrics-*.amazon.com^
 ||api*.batmobi.net^
 ||widgets.*.webengage.com^
+||adi*.cnool.net^
 ||zabdybod*.club^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^

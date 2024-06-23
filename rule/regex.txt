@@ -1,4 +1,4 @@
-# Update time: 2024-06-23 09:00:13
+# Update time: 2024-06-23 20:21:40
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -54,7 +54,6 @@
 ||avito.avito.www.avito.
 ||avito.avito.avito.
 ||yandex.pay.avito.
-||sell*.etlong.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -63,6 +62,7 @@ MRelateFeedAd
 ||adsmind.
 ||adsfile.
 ||bigdata.
+||sell*.etlong.com^
 ||smartads.
 ||adshare.
 ||dm-*.toutiao.com^
@@ -156,6 +156,7 @@ advertisers.js|
 ||ysdm*.ys137.com.cn^
 ||dm*.yxlady.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
@@ -354,6 +355,7 @@ analytics-*.aasaam.com
 ||teasernet.
 ||popuptraf.
 ||host*.rvshare.com^
+||events-*.op.hicloud.com^
 ||158.247.208.
 ||geoloc*.geostats.ovh^
 ||ssp*.rtb.beeline.ru^
@@ -597,7 +599,6 @@ body {
 ||device-metrics-*.amazon.com^
 ||api*.batmobi.net^
 ||widgets.*.webengage.com^
-||adi*.cnool.net^
 ||zabdybod*.club^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
@@ -607,7 +608,6 @@ body {
 ||aj3*.bid^
 ||ad-*.appacc.dbankedge.cn^
 ||aj1*.online^
-||events-*.op.hicloud.com^
 ||zbc6hye*.xyz^
 ||aff*.kolektiva.net^
 ||events*.cre.ma^

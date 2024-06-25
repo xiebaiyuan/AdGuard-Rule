@@ -1,4 +1,4 @@
-# Update time: 2024-06-24 20:23:55
+# Update time: 2024-06-25 08:56:32
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3022,7 +3022,6 @@
 0.0.0.0 cntrack.madserving.com
 0.0.0.0 nfh.cnshef.com
 0.0.0.0 u1.img.mobile.sina.cn
-0.0.0.0 ads.juicyads.com
 0.0.0.0 vs8.gzcu.u3.ucweb.com
 0.0.0.0 x.infzm.com
 0.0.0.0 growingio.com
@@ -3431,6 +3430,7 @@
 0.0.0.0 mr.da.netease.com
 0.0.0.0 webstat.ws.126.net
 0.0.0.0 u1.s.minisplat.cn
+0.0.0.0 bigdata.adups.com
 0.0.0.0 ekfe.tmmjgcp.cn
 0.0.0.0 app.flurry.com
 0.0.0.0 so.sina.cn
@@ -3900,6 +3900,7 @@
 0.0.0.0 hit.webcentre.lycos.co.uk
 0.0.0.0 www.tinytapgame.com
 0.0.0.0 ac.atpanel.com
+0.0.0.0 bigdata.advmob.cn
 0.0.0.0 ue.yeyoucdn.com
 0.0.0.0 77455.com
 0.0.0.0 info.yitsoftware.com
@@ -4074,6 +4075,7 @@
 0.0.0.0 network.hot-mob.com
 0.0.0.0 download.mediaget.com
 0.0.0.0 data.ads.oppomobile.com
+0.0.0.0 bigdata.adfuture.cn
 0.0.0.0 m.cdxtny.cn
 0.0.0.0 psfq.gou.sogou.com
 0.0.0.0 data.mistat.xiaomi.com
@@ -5360,7 +5362,6 @@
 0.0.0.0 img.ads.csdn.net
 0.0.0.0 p.qlogo.cn
 0.0.0.0 sync-eu.exe.bid
-0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 market.52pk.com
 0.0.0.0 www.qumi.com
 0.0.0.0 wangdq.com
@@ -5851,6 +5852,7 @@
 0.0.0.0 miui.hftaili.com
 0.0.0.0 o.4x25v.cn
 0.0.0.0 us.adserver.yahoo.com
+0.0.0.0 pixel.tapad.com
 0.0.0.0 www.7540.com
 0.0.0.0 abc.douguo.com
 0.0.0.0 a.vlion.cn
@@ -6264,7 +6266,6 @@
 0.0.0.0 geo.gridsumdissector.com
 0.0.0.0 tips.gamevvip.com
 0.0.0.0 analytics.query.yahoo.com
-0.0.0.0 ads-a.juicyads.com
 0.0.0.0 adimg.mobile.sina.cn
 0.0.0.0 m.cuoss.com
 0.0.0.0 static.bmob.cn
@@ -7048,7 +7049,6 @@
 0.0.0.0 pv.xcar.com.cn
 0.0.0.0 www.kejet.com
 0.0.0.0 www.dianomi.com
-0.0.0.0 a.adroll.com
 0.0.0.0 910weixin.com
 0.0.0.0 images.enet.com.cn
 0.0.0.0 cdn.atwola.com
@@ -7072,7 +7072,6 @@
 0.0.0.0 m-hayakawa.ad.dev.nend.net
 0.0.0.0 adsatt.disney.starwave.com
 0.0.0.0 beyondcompare.cc
-0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 amps.yoyi.com.cn
 0.0.0.0 dns2.oadz.com
 0.0.0.0 is.snssdk.com
@@ -8863,6 +8862,7 @@
 0.0.0.0 ggs.myzaker.com
 0.0.0.0 cdnis.hyperpromote.com
 0.0.0.0 img1.nend.net
+0.0.0.0 bigdata.adsunflower.com
 0.0.0.0 ad-count.adwo.com
 0.0.0.0 s63.cnzz.com
 0.0.0.0 click.union.vip.com
@@ -9980,6 +9980,7 @@
 0.0.0.0 auxin-box.com
 0.0.0.0 se.sitestat.com
 0.0.0.0 ads.gorillanation.com
+0.0.0.0 ads.juicyads.com
 0.0.0.0 videocop.com
 0.0.0.0 van-city-sign-on.com
 0.0.0.0 oascentral.dailybreeze.com
@@ -10709,7 +10710,6 @@
 0.0.0.0 www.punishtube.com
 0.0.0.0 thalasur.fr
 0.0.0.0 cnhimcalesternews.122.2o7.net
-0.0.0.0 bigdata.adups.com
 0.0.0.0 rss.buysellads.com
 0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 w157.hitbox.com
@@ -11568,7 +11568,6 @@
 0.0.0.0 fclb.fr
 0.0.0.0 clktrk.com
 0.0.0.0 noextramoney.com
-0.0.0.0 bigdata.advmob.cn
 0.0.0.0 cicontents.biz
 0.0.0.0 c2.zedo.com
 0.0.0.0 actionsplash.com
@@ -11909,7 +11908,6 @@
 0.0.0.0 adserv004.adtech.us
 0.0.0.0 app2.letmacwork.world
 0.0.0.0 safe.hyperpaysys.com
-0.0.0.0 bigdata.adfuture.cn
 0.0.0.0 p.nexac.com
 0.0.0.0 surveypass.com
 0.0.0.0 mens.1.p2l.info
@@ -14179,6 +14177,7 @@
 0.0.0.0 phorm.co.uk
 0.0.0.0 techreview.112.2o7.net
 0.0.0.0 adserver.pressboard.ca
+0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 kilomniadst.info
 0.0.0.0 legrando.fr
 0.0.0.0 ezl.com
@@ -15052,7 +15051,6 @@
 0.0.0.0 kaharmonie.nl
 0.0.0.0 fvaweb.it
 0.0.0.0 w9.hitbox.com
-0.0.0.0 pixel.tapad.com
 0.0.0.0 protection.TNpolice.com
 0.0.0.0 www.myexclusiverewards.com
 0.0.0.0 cdn.augur.io
@@ -15766,6 +15764,7 @@
 0.0.0.0 y.cdn.adblade.com
 0.0.0.0 pm.adsafeprotected.com
 0.0.0.0 ticketforchange.fr
+0.0.0.0 ads-a.juicyads.com
 0.0.0.0 ads.adgoto.com
 0.0.0.0 www.keybinary.com
 0.0.0.0 cdn.wwwpromoter.com
@@ -17067,6 +17066,7 @@
 0.0.0.0 mdamarillo.112.2o7.net
 0.0.0.0 pmelon.com
 0.0.0.0 srv.sayyac.com
+0.0.0.0 a.adroll.com
 0.0.0.0 nmanchorage.112.2o7.net
 0.0.0.0 ecs1.engageya.com
 0.0.0.0 www.nedstat.com
@@ -17100,6 +17100,7 @@
 0.0.0.0 adserver9.contextad.com
 0.0.0.0 jitmj4.122.2o7.net
 0.0.0.0 doors.co.kr
+0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 computerworldcom.112.2o7.net
 0.0.0.0 ads.almasdarnews.com
 0.0.0.0 www.everestgroupcorp.com
@@ -20145,7 +20146,6 @@
 0.0.0.0 cluster3.adultadworld.com
 0.0.0.0 ad.jokeroo.com
 0.0.0.0 script.crsspxl.com
-0.0.0.0 bigdata.adsunflower.com
 0.0.0.0 colorfulnotebooks.com
 0.0.0.0 track.msadcenter.cxtv.com
 0.0.0.0 silcom.com

@@ -1,4 +1,4 @@
-# Update time: 2024-07-07 20:21:29
+# Update time: 2024-07-08 08:59:01
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -63,10 +63,12 @@ MRelateFeedAd
 ||adsmind.
 ||adsfile.
 ||bigdata.
+||sell*.etlong.com^
 ||smartads.
 ||adshare.
 ||dm-*.toutiao.com^
 ||player.letvcdn.com*.swf|
+||d*.wanzhuang.com^
 ||adstats.
 ||toujing*.top^
 ||popup.*.js*
@@ -119,9 +121,12 @@ oHead6205.appendChild( oScript6205);
 ||adsence.
 ||unityads.
 advertisers.js|
+||ap*.jj20.com^
 ||yazhouyu.
 ||advertise.
+||ap*.pl520.com^
 ||tracker*.qcloud.com^
+||onetrust.
 ||icast.
 ||gg.
 ||union.
@@ -134,11 +139,6 @@ advertisers.js|
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||onetrust.
-||d*.wanzhuang.com^
-||ap*.pl520.com^
-||sell*.etlong.com^
-||ap*.jj20.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -173,8 +173,8 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-<body>
 <head>
+<body>
 <!doctype html>
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^

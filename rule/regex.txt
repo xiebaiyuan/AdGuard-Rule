@@ -1,4 +1,4 @@
-# Update time: 2024-07-25 20:23:59
+# Update time: 2024-07-26 08:58:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -54,20 +54,18 @@
 ||avito.avito.www.avito.
 ||avito.avito.avito.
 ||yandex.pay.avito.
+||report.*.qq.com^
 ||adx.
 ||adx-
 ||adsfs.
 ||adsdk.
 MRelateFeedAd
-||adsmind.
 ||adsfile.
 ||bigdata.
-||sell*.etlong.com^
 ||smartads.
 ||adshare.
 ||dm-*.toutiao.com^
 ||player.letvcdn.com*.swf|
-||d*.wanzhuang.com^
 ||adstats.
 ||toujing*.top^
 ||popup.*.js*
@@ -107,31 +105,33 @@ getAds|
 ||adsense.
 ||ading.
 ||googleads.
-||umengacs.
 ||ads-
 ||ad.
-piao.js|
 oHead6205.appendChild( oScript6205);
 ||ad-
-||ads.
 ||vali-g1.cp31.ott.cibntv.net*.mp4
 ||adxapi.
 ||gg*.miguvideo.com^
 ||adsence.
 ||unityads.
 advertisers.js|
-||ap*.jj20.com^
 ||yazhouyu.
 ||advertise.
-||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||report.*.qq.com^
+||umengacs.
+||d*.wanzhuang.com^
+||adsmind.
+piao.js|
+||ap*.pl520.com^
+||sell*.etlong.com^
+||ap*.jj20.com^
 ||onetrust.
 ||icast.
 ||gg.
 ||union.
-||adpic.
+||ads.
 ||cnzz.
+||adpic.
 ||sax.sina.
 ||biz5.
 ||xmindchina.
@@ -179,34 +179,6 @@ advertisers.js|
 <head>
 <body>
 <!doctype html>
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-                }
-                console.log(JSON.parse(xhr.responseText))
-<style>
-            2024 Copyright.  All Rights Reserved.
-        ];
-    Privacy Policy
-			Buy this domain.
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -348,7 +320,6 @@ analytics-*.aasaam.com
 ||servo-report.dvdfab.
 ||trk*.vidible.tv^
 ||pop-under.
-||gscounters.*.gigya.com^
 ||talpa-analytics.
 ||mon-*.tiktokv.com^
 ||pixelapi-*.cs.mysamba.tv^
@@ -357,7 +328,6 @@ analytics-*.aasaam.com
 ||1024wanzhai.
 ||under-click.
 ||log-*.epicdn.me^
-||metric*.rediff.com^
 ||tracker.twenga.
 ||cdn*.swaxis.com^
 ||adimg*.search.naver.net^
@@ -550,6 +520,7 @@ analytics-*.aasaam.com
 ||gads*s.com^
 ||ac*.786ip.com^
 ||geotargetly-api-*.com^
+||gscounters.*.gigya.com^
 ||adserver.*.yahoodns.net^
 ||fads*z.com^
 ||c*hit.zerkalo.io^
@@ -562,6 +533,7 @@ analytics-*.aasaam.com
 ||mistat.*.xiaomi.com^
 ||stat.*.v-56.com^
 ||adcounter*.uptolike.ru^
+||metric*.rediff.com^
 ||ad*.ettoday.net^
 ||ad-*.amazonaws.com^
 ||ads*-normal*.zijieapi.com^

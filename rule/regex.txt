@@ -1,4 +1,4 @@
-# Update time: 2024-07-26 08:58:10
+# Update time: 2024-07-26 20:23:24
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -54,18 +54,20 @@
 ||avito.avito.www.avito.
 ||avito.avito.avito.
 ||yandex.pay.avito.
-||report.*.qq.com^
 ||adx.
 ||adx-
 ||adsfs.
 ||adsdk.
 MRelateFeedAd
+||adsmind.
 ||adsfile.
 ||bigdata.
+||sell*.etlong.com^
 ||smartads.
 ||adshare.
 ||dm-*.toutiao.com^
 ||player.letvcdn.com*.swf|
+||d*.wanzhuang.com^
 ||adstats.
 ||toujing*.top^
 ||popup.*.js*
@@ -105,33 +107,31 @@ getAds|
 ||adsense.
 ||ading.
 ||googleads.
+||umengacs.
 ||ads-
 ||ad.
+piao.js|
 oHead6205.appendChild( oScript6205);
 ||ad-
+||ads.
 ||vali-g1.cp31.ott.cibntv.net*.mp4
 ||adxapi.
 ||gg*.miguvideo.com^
 ||adsence.
 ||unityads.
 advertisers.js|
+||ap*.jj20.com^
 ||yazhouyu.
 ||advertise.
-||tracker*.qcloud.com^
-||umengacs.
-||d*.wanzhuang.com^
-||adsmind.
-piao.js|
 ||ap*.pl520.com^
-||sell*.etlong.com^
-||ap*.jj20.com^
+||tracker*.qcloud.com^
+||report.*.qq.com^
 ||onetrust.
 ||icast.
 ||gg.
 ||union.
-||ads.
-||cnzz.
 ||adpic.
+||cnzz.
 ||sax.sina.
 ||biz5.
 ||xmindchina.
@@ -176,9 +176,9 @@ piao.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-<head>
 <body>
 <!doctype html>
+<head>
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -320,6 +320,7 @@ analytics-*.aasaam.com
 ||servo-report.dvdfab.
 ||trk*.vidible.tv^
 ||pop-under.
+||gscounters.*.gigya.com^
 ||talpa-analytics.
 ||mon-*.tiktokv.com^
 ||pixelapi-*.cs.mysamba.tv^
@@ -381,8 +382,6 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -471,6 +470,8 @@ analytics-*.aasaam.com
 ||gg*.51cto.com^
 ||analyzer*.fc2.com^
 ||adwords*.*^
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
 ||clog*.yuanfudao.com^
@@ -520,7 +521,6 @@ analytics-*.aasaam.com
 ||gads*s.com^
 ||ac*.786ip.com^
 ||geotargetly-api-*.com^
-||gscounters.*.gigya.com^
 ||adserver.*.yahoodns.net^
 ||fads*z.com^
 ||c*hit.zerkalo.io^

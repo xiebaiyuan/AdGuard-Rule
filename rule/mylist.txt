@@ -33,6 +33,8 @@
 ||log.uu.163.com^$important
 ||ksmobile.com^$important
 
+||ulogs.umeng.com^$important
+
 !-----------------待定-----------------
 
 #美团推送(大众点评)

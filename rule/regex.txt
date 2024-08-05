@@ -1,4 +1,4 @@
-# Update time: 2024-08-04 23:15:57
+# Update time: 2024-08-05 09:00:47
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -54,21 +54,16 @@
 ||avito.avito.www.avito.
 ||avito.avito.avito.
 ||yandex.pay.avito.
+||report.*.qq.com^
 ||adx.
 ||adx-
 ||adsfs.
 ||adsdk.
 MRelateFeedAd
-||adsmind.
-||adsfile.
 ||bigdata.
-||sell*.etlong.com^
 ||smartads.
-||adshare.
 ||dm-*.toutiao.com^
 ||player.letvcdn.com*.swf|
-||d*.wanzhuang.com^
-||adstats.
 ||toujing*.top^
 ||popup.*.js*
 ||ggg.
@@ -107,7 +102,6 @@ getAds|
 ||adsense.
 ||ading.
 ||googleads.
-||umengacs.
 ||ads-
 ||ad.
 piao.js|
@@ -123,10 +117,7 @@ advertisers.js|
 ||ap*.jj20.com^
 ||yazhouyu.
 ||advertise.
-||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||report.*.qq.com^
-||onetrust.
 ||icast.
 ||gg.
 ||union.
@@ -139,6 +130,16 @@ advertisers.js|
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||onetrust.
+||umengacs.
+||d*.wanzhuang.com^
+||adsmind.
+||adstats.
+||adsfile.
+||ap*.pl520.com^
+||sell*.etlong.com^
+||adshare.
+||ap*.jj20.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -388,34 +389,6 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-                }
-                console.log(JSON.parse(xhr.responseText))
-<style>
-            2024 Copyright.  All Rights Reserved.
-        ];
-    Privacy Policy
-			Buy this domain.
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -515,7 +488,6 @@ body {
 ||analytics-*-nfl.yinzcam.com^
 ||ad*.on.cc^
 ||ads*.dfiles.ru^
-||popadex-*.us-east-1.elb.amazonaws.com^
 ||log*-applog-*.tiktokv.com^
 ||faro-collector-prod-*.grafana.net^
 ||analytics-rollout-*.amazonaws.com^
@@ -687,6 +659,7 @@ Banner468x60
 ||142.91.159.
 ||oempprd.samsungcloudsolution.
 ||sta.zone-telechargement.
+||popadex-*.us-east-1.elb.amazonaws.com^
 ||sta.wawacity.
 ||analytics.ticketmaster.
 ||cintent.streanplay.

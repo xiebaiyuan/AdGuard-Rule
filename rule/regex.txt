@@ -1,4 +1,4 @@
-# Update time: 2024-08-17 08:57:47
+# Update time: 2024-08-17 20:21:39
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -210,7 +210,6 @@ analytics-*.aasaam.com
 ||flipflapflo.
 ||gonews*.net^
 ||real*traf.ru^
-||f-log-*.grammarly.io^
 ||wa.gmx.
 ||mon*-*.tiktokv.us^
 ||pxl-*.ozone.ru^
@@ -227,7 +226,6 @@ analytics-*.aasaam.com
 ||sock*-goguardian.pusher.com^
 ||basvformu*.xyz^
 ||mcs-va-*.tiktokv.com^
-||events-api*.outfit7.com^
 ||linkexchange.
 ||pangolin*.sgsnssdk.com^
 ||block.s*block.com^
@@ -265,7 +263,6 @@ analytics-*.aasaam.com
 ||cnt.tubeon.
 ||videoclik.
 ||poshalim.
-||events*.cre.ma^
 ||pixel-*.rubiconproject.com^
 ||track.tiara.
 ||orbit*.lun.ua^
@@ -290,7 +287,6 @@ analytics-*.aasaam.com
 ||videoclick.
 ||stats-*.p2pnow.ru^
 ||admulti.
-||eum*.instana.io^
 ||tnc16-*.byteoversea.com^
 ||piwik.*.com.vn^
 ||mf*.advantage.as^
@@ -380,7 +376,6 @@ analytics-*.aasaam.com
 ||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
-||logger-*.dailymotion.com^
 ||iad-*.appboy.com^
 ||minitds-*.info^
 ||jtbo*.nqxvevk.cn^
@@ -543,6 +538,7 @@ body {
 ||ajx*.online^
 ||cas.*.criteo.com^
 ||datacollector-*.dt.dbankcloud.cn^
+||f-log-*.grammarly.io^
 ||n*adserv.com^
 ||apple.com-*.live^
 ||zbc6hy*.live^
@@ -568,6 +564,7 @@ body {
 ||adserver.*.yahoodns.net^
 ||fads*z.com^
 ||c*hit.zerkalo.io^
+||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
 ||ac*.pingguolv.com^
 ||at*.doubanio.com^
@@ -617,6 +614,7 @@ body {
 ||aj1*.online^
 ||zbc6hye*.xyz^
 ||aff*.kolektiva.net^
+||events*.cre.ma^
 ||promo-*.vercel.app^
 ||163487*.qmgmw.com^
 ||adx-*.dbankedge.cn^
@@ -634,6 +632,7 @@ body {
 ||datacollector-*.dt.hicloud.com^
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
+||logger-*.dailymotion.com^
 ||adsfilebssdlbig.*.kugou.com^
 ||bdlm*.hc360.com^
 ||ad*.nexage.com^
@@ -652,6 +651,7 @@ body {
 ||batchlogging*-eu.truecaller.com^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
+||eum*.instana.io^
 ||ads*-normal-lq.zijieapi.com^
 ||fads*s.com^
 ||ads-dmp-collect.*.karrotmarket.com^

@@ -1,4 +1,4 @@
-# Update time: 2024-08-24 08:58:46
+# Update time: 2024-08-24 20:22:47
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -54,7 +54,6 @@
 ||avito.avito.www.avito.
 ||avito.avito.avito.
 ||yandex.pay.avito.
-||report.*.qq.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -126,7 +125,7 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||onetrust.
+||report.*.qq.com^
 ||icast.
 ||gg.
 ||union.
@@ -139,6 +138,7 @@ advertisers.js|
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||onetrust.
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -159,7 +159,6 @@ advertisers.js|
 ||dm*.yxlady.com^
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
@@ -378,7 +377,6 @@ analytics-*.aasaam.com
 ||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
-||logger-*.dailymotion.com^
 ||iad-*.appboy.com^
 ||minitds-*.info^
 ||jtbo*.nqxvevk.cn^
@@ -579,6 +577,7 @@ analytics-*.aasaam.com
 ||device-metrics-*.amazon.com^
 ||api*.batmobi.net^
 ||widgets.*.webengage.com^
+||adi*.cnool.net^
 ||zabdybod*.club^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
@@ -606,6 +605,7 @@ analytics-*.aasaam.com
 ||datacollector-*.dt.hicloud.com^
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
+||logger-*.dailymotion.com^
 ||adsfilebssdlbig.*.kugou.com^
 ||bdlm*.hc360.com^
 ||ad*.nexage.com^

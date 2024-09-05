@@ -1,4 +1,4 @@
-# Update time: 2024-09-05 09:02:44
+# Update time: 2024-09-05 20:16:05
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -54,8 +54,6 @@
 ||avito.avito.www.avito.
 ||avito.avito.avito.
 ||yandex.pay.avito.
-||report.*.qq.com^
-||adstats.
 ||adx.
 ||adx-
 ||adsfs.
@@ -64,7 +62,6 @@ MRelateFeedAd
 ||adsmind.
 ||adsfile.
 ||bigdata.
-||sell*.etlong.com^
 ||smartads.
 ||adshare.
 ||dm-*.toutiao.com^
@@ -126,7 +123,9 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||onetrust.
+||report.*.qq.com^
+||adstats.
+||sell*.etlong.com^
 ||icast.
 ||gg.
 ||union.
@@ -139,6 +138,7 @@ advertisers.js|
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||onetrust.
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -245,6 +245,7 @@ analytics-*.aasaam.com
 ||rb*.design.ru^
 ||log*.byteoversea.com^
 ||logs*.smithsonian.museum^
+||cs*.mp3bars.com^
 ||bar*.shinobi.jp^
 ||counter*.freecounter.ovh^
 ||tracking-v*.a.run.app^
@@ -281,9 +282,11 @@ analytics-*.aasaam.com
 ||mautic.*.vn^
 ||s*.adduplex.com^
 ||mon*-platform-*.tiktokv.com^
+||collect-elb-*.amazonaws.com^
 ||collector-*.tvsquared.com^
 ||adserver1.
 ||log-*.previewnetworks.com^
+||counter*-yadro*-ru.unblocked.lol^
 ||backstory.ebay.
 ||adx-*.dbankcloud.
 ||pop-parad.
@@ -297,6 +300,7 @@ analytics-*.aasaam.com
 ||tnc16-*.byteoversea.com^
 ||piwik.*.com.vn^
 ||mf*.advantage.as^
+||query*.petametrics.com^
 ||button.blogs.yandex.
 ||flurry.agentportal-*.yahoodns.net^
 ||host*.rigbyandpeller.com^
@@ -659,7 +663,6 @@ analytics-*.aasaam.com
 ||adcs-*.myappsget.com^
 ||ads*.textra.me^
 ||aj2*.online^
-||cs*.mp3bars.com^
 ||player-feedback*.glomex.*^
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
@@ -707,9 +710,7 @@ analytics-*.aasaam.com
 ||analytics*.carambo.la^
 ||util-*.simply-hentai.com^
 ||aan.amazon.*^
-||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
-||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
 ||gtlpa*.com^
 ||auth-*.hismarttv.com^
@@ -727,45 +728,19 @@ analytics-*.aasaam.com
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||analytics.*.sky.com^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-                }
-                console.log(JSON.parse(xhr.responseText))
-<style>
-            2024 Copyright.  All Rights Reserved.
-        ];
-<head>
-    Privacy Policy
-			Buy this domain.
-    }
-                    return;
-    };
-    <script>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
 ||imgpfx.arenavision.
 ||ads*.opensubtitles.org^
-||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
-||counter*.stat.ovh^
-||ads.livetv*.me^
-||142.91.159.
 ||fapnado.*.php|
-||fxhpaoxqyajvmdg.
 ||itechpost.com*adbk
 ||rgfftupf.
+||gamenguide.com*adbk
+||counter*.stat.ovh^
+||centent.streamp1ay.
+||ads.livetv*.me^
+||142.91.159.
+||fxhpaoxqyajvmdg.
+||cintent.streanplay.
 Banner468x60
 ||matt.mercadolibre.
 @@||adobeid-*.services.adobe.com^
@@ -777,12 +752,10 @@ Banner468x60
 ||stats.zone-annuaire.
 ||df.infra.sz.shopee.
 ||fkp.samsungcloudsolution.
-||centent.streamp1ay.
 ||oempprd.samsungcloudsolution.
 ||sta.zone-telechargement.
 ||sta.wawacity.
 ||analytics.ticketmaster.
-||cintent.streanplay.
 ||df.infra.shopee.
 ||33mail.com%2fpage%2fopened^
 ||sealfit.ontraport.net%2fo%3f^

@@ -1,4 +1,4 @@
-# Update time: 2024-09-05 20:26:10
+# Update time: 2024-09-06 09:02:40
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -56,6 +56,8 @@
 ||yandex.pay.avito.
 ||report.*.qq.com^
 ||adstats.
+||ap*.pl520.com^
+||ap*.jj20.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -121,10 +123,8 @@ oHead6205.appendChild( oScript6205);
 ||adsence.
 ||unityads.
 advertisers.js|
-||ap*.jj20.com^
 ||yazhouyu.
 ||advertise.
-||ap*.pl520.com^
 ||tracker*.qcloud.com^
 ||onetrust.
 ||icast.
@@ -390,6 +390,7 @@ analytics-*.aasaam.com
 ||ad.*.doubleclick.net^
 ||snowplow-collector-*.amazonaws.com^
 ||ms*.applvn.com^
+||iad-*.braze.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||tracking-*.trnox.com^
 ||www.fuze-hill*.xyz^
@@ -492,101 +493,6 @@ analytics-*.aasaam.com
 ||gg*.51cto.com^
 ||analyzer*.fc2.com^
 ||adwords*.*^
-              <a
-          Code
-            <input
-      Enterprise
-      Manage cookies
-          Issues
-      >
-                required
-      <button
-      Healthcare
-          hidden
-          Projects
-      Partners
-          >
-        Automate any workflow
-<dialog-helper>
-                <li>
-<html
-                Sign up
-  <head>
-              <input
-        Provide feedback
-      Customer Stories
-    data-discussion-hovercards-enabled
-      GitHub Skills
-        Enterprise-grade security features
-        Search
-      <span>
-        Fund open source developers
-        AI-powered developer platform
-            Sign in
-  <div
-              required
-        Manage code changes
-        Saved searches
-  <div >
-        Resources
-              Search syntax tips
-        Product
-    data-commit-hovercards-enabled
-    You can’t perform that action at this time.
-<!DOCTYPE html>
-<react-partial
-                <ul
-<react-app
-      Software Development
-  >
->
-      DevOps
-          Pull requests
-    <button
-      Teams
-          <a
-                  "
-        Host and manage packages
-      Do not share my personal information
-      Startups
-          Security
-        Find and fix vulnerabilities
-        GitHub community articles
-              >
-    data-issue-and-pr-hovercards-enabled
-        ilxp
-        >
-        Solutions
-          <div
-      <div>
-        Open Source
-      Topics
-  <li>
-          Star
-          Insights
-        Write better code with AI
-      Blog
-      Trending
-      Financial services
-      Collections
-      View all
-        Enterprise-grade AI features
-        Plan and track work
-      Security
-                Sign in
-    >
-        Instant dev environments
-      Manufacturing
-      AI
-      DevSecOps
-      <div
-  <cookie-consent-link>
-        Collaborate outside of code
-      Documentation
-          Actions
-      All features
-        Enterprise
-      Learning Pathways
 ||ad*.aginomoto.com
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
@@ -707,7 +613,6 @@ analytics-*.aasaam.com
 ||aan.amazon.*^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
-||iad-*.braze.com^
 ||collector-*.tvsquared.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
@@ -728,6 +633,101 @@ analytics-*.aasaam.com
 ||gads*z.com^
 ||collector*.ex.co^
 ||analytics.*.sky.com^
+              <a
+          Code
+            <input
+      Enterprise
+      Manage cookies
+          Issues
+      >
+                required
+      <button
+      Healthcare
+          hidden
+          Projects
+      Partners
+          >
+        Automate any workflow
+<dialog-helper>
+                <li>
+<html
+                Sign up
+  <head>
+              <input
+        Provide feedback
+      Customer Stories
+    data-discussion-hovercards-enabled
+      GitHub Skills
+        Enterprise-grade security features
+        Search
+      <span>
+        Fund open source developers
+        AI-powered developer platform
+            Sign in
+  <div
+              required
+        Manage code changes
+        Saved searches
+  <div >
+        Resources
+              Search syntax tips
+        Product
+    data-commit-hovercards-enabled
+    You can’t perform that action at this time.
+<!DOCTYPE html>
+<react-partial
+                <ul
+<react-app
+      Software Development
+  >
+>
+      DevOps
+          Pull requests
+    <button
+      Teams
+          <a
+                  "
+        Host and manage packages
+      Do not share my personal information
+      Startups
+          Security
+        Find and fix vulnerabilities
+        GitHub community articles
+              >
+    data-issue-and-pr-hovercards-enabled
+        ilxp
+        >
+        Solutions
+          <div
+      <div>
+        Open Source
+      Topics
+  <li>
+          Star
+          Insights
+        Write better code with AI
+      Blog
+      Trending
+      Financial services
+      Collections
+      View all
+        Enterprise-grade AI features
+        Plan and track work
+      Security
+                Sign in
+    >
+        Instant dev environments
+      Manufacturing
+      AI
+      DevSecOps
+      <div
+  <cookie-consent-link>
+        Collaborate outside of code
+      Documentation
+          Actions
+      All features
+        Enterprise
+      Learning Pathways
 ||imgpfx.arenavision.
 ||ads*.opensubtitles.org^
 ||gamenguide.com*adbk
@@ -777,3 +777,32 @@ Banner468x60
 ||ip6-allrouters^
 ||local^
 ||sendfox.com%2ftrk%2fopen%2f^
+                    return;
+                }
+    };
+            } else {
+    <script>
+        ];
+            }
+        return arguments;
+<script>
+};
+                console.log(JSON.parse(xhr.responseText))
+<style>
+            2024 Copyright.  All Rights Reserved.
+<head>
+    Privacy Policy
+			Buy this domain.
+    }
+            pageOptions
+    xhr.send();
+                    return;
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+body {
+                console.log('There was a problem with the request.');
+}

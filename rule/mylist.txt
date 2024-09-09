@@ -56,6 +56,10 @@
 #涉及部分UC系登陆、扫码验证等
 @@||uc.cn^$important
 
+
+# GoogleAndroid
+@@||clientservices.googleapis.com
+
 # ------------AdGuard Home放行-------------------
 @@||www.google-analytics.com^$important
 @@||clients6.google.com^$important

@@ -1,4 +1,4 @@
-# Update time: 2024-09-10 09:03:23
+# Update time: 2024-09-10 20:28:05
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,13 +55,17 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
+||ap*.pl520.com^
+||ap*.jj20.com^
 ||adx.
 ||adx-
 ||adsfs.
 ||adsdk.
 MRelateFeedAd
+||adsmind.
 ||adsfile.
 ||bigdata.
+||sell*.etlong.com^
 ||smartads.
 ||adshare.
 ||dm-*.toutiao.com^
@@ -109,8 +113,10 @@ getAds|
 ||umengacs.
 ||ads-
 ||ad.
+piao.js|
 oHead6205.appendChild( oScript6205);
 ||ad-
+||ads.
 ||vali-g1.cp31.ott.cibntv.net*.mp4
 ||adxapi.
 ||gg*.miguvideo.com^
@@ -120,6 +126,7 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||tracker*.qcloud.com^
+||onetrust.
 ||icast.
 ||gg.
 ||union.
@@ -132,13 +139,6 @@ advertisers.js|
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||onetrust.
-||adsmind.
-piao.js|
-||ads.
-||ap*.pl520.com^
-||sell*.etlong.com^
-||ap*.jj20.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -159,7 +159,6 @@ piao.js|
 ||dm*.yxlady.com^
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
@@ -176,35 +175,6 @@ piao.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-                }
-                console.log(JSON.parse(xhr.responseText))
-<style>
-            2024 Copyright.  All Rights Reserved.
-        ];
-<head>
-    Privacy Policy
-			Buy this domain.
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -405,7 +375,6 @@ analytics-*.aasaam.com
 ||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
-||logger-*.dailymotion.com^
 ||iad-*.appboy.com^
 ||minitds-*.info^
 ||jtbo*.nqxvevk.cn^
@@ -426,6 +395,35 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
+<script>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+                }
+                console.log(JSON.parse(xhr.responseText))
+<style>
+            2024 Copyright.  All Rights Reserved.
+        ];
+<head>
+    Privacy Policy
+			Buy this domain.
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||da.hornbach.*^
@@ -605,6 +603,7 @@ analytics-*.aasaam.com
 ||device-metrics-*.amazon.com^
 ||api*.batmobi.net^
 ||widgets.*.webengage.com^
+||adi*.cnool.net^
 ||zabdybod*.club^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
@@ -632,6 +631,7 @@ analytics-*.aasaam.com
 ||datacollector-*.dt.hicloud.com^
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
+||logger-*.dailymotion.com^
 ||adsfilebssdlbig.*.kugou.com^
 ||bdlm*.hc360.com^
 ||ad*.nexage.com^
@@ -662,7 +662,6 @@ analytics-*.aasaam.com
 ||gads*z.com^
 ||collector*.ex.co^
 ||analytics.*.sky.com^
-||ads*.opensubtitles.org^
 ||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 ||counter*.stat.ovh^
@@ -672,6 +671,7 @@ rgmechanicsgames.com*VPN.exe
 ||itechpost.com*adbk
 ||rgfftupf.
 Banner468x60
+||ads*.opensubtitles.org^
 ||matt.mercadolibre.
 @@||adobeid-*.services.adobe.com^
 ||tccd.douglas.

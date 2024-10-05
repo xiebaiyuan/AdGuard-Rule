@@ -1,4 +1,4 @@
-# Update time: 2024-10-04 20:27:44
+# Update time: 2024-10-05 09:05:25
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -246,7 +246,6 @@ analytics-*.aasaam.com
 ||hostingcloud.*.wasm^
 ||medialand.
 ||track.*.roku.com^
-||device-metrics-*.amazon.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
 ||get-me-wow.
@@ -262,7 +261,6 @@ analytics-*.aasaam.com
 ||popupclick.
 ||dw-informer-*.newsru.com^
 |piwik.
-||datacollector-*.dt.hicloud.com^
 ||piwik.*.vn^
 ||letssex.
 ||production-adserver-*.amazonaws.com^
@@ -311,7 +309,6 @@ analytics-*.aasaam.com
 ||edgetrksvc.ebay.
 ||eclog*-*.cafe24.com^
 ||host*.polaroid.com^
-||datacollector-*.dt.dbankcloud.cn^
 ||s*.skencituer.com^
 ||underclick.
 ||imp-*.jampp.com^
@@ -393,37 +390,6 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-                }
-                console.log(JSON.parse(xhr.responseText))
-<style>
-            2024 Copyright.  All Rights Reserved.
-        ];
-<head>
-    Privacy Policy
-			Buy this domain.
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||bj*.9669.cn^
@@ -523,6 +489,8 @@ body {
 ||adsh*.*^
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
 ||clog*.yuanfudao.com^
@@ -546,6 +514,7 @@ body {
 ||www.xxmh*.com^
 ||ajx*.online^
 ||cas.*.criteo.com^
+||datacollector-*.dt.dbankcloud.cn^
 ||n*adserv.com^
 ||apple.com-*.live^
 ||zbc6hy*.live^
@@ -604,6 +573,7 @@ body {
 ||adservice.google.*^
 ||ad.kisstvshow.*^
 ||appanalysis*.banggood.com^
+||device-metrics-*.amazon.com^
 ||api*.batmobi.net^
 ||widgets.*.webengage.com^
 ||zabdybod*.club^
@@ -630,6 +600,7 @@ body {
 ||mobileoffers-*-download.com^
 ||zaqlovh*.xyz^
 ||collect-v*.51.la^
+||datacollector-*.dt.hicloud.com^
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
 ||adsfilebssdlbig.*.kugou.com^

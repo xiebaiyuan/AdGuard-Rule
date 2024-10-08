@@ -27,6 +27,8 @@
 
 # Server酱
 @@||sctapi.ftqq.com^$important
+@@||api.apijia.cn^$important
+
 
 # 小米社区
 @@||api.vip.miui.com

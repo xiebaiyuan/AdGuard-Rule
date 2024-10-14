@@ -1,4 +1,4 @@
-# Update time: 2024-10-13 20:25:15
+# Update time: 2024-10-14 09:08:19
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -54,6 +54,7 @@
 ||avito.avito.www.avito.
 ||avito.avito.avito.
 ||yandex.pay.avito.
+||report.*.qq.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -125,7 +126,6 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||report.*.qq.com^
 ||onetrust.
 ||icast.
 ||gg.
@@ -168,35 +168,6 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-                }
-                console.log(JSON.parse(xhr.responseText))
-<style>
-            2024 Copyright.  All Rights Reserved.
-        ];
-<head>
-    Privacy Policy
-			Buy this domain.
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -226,6 +197,7 @@ analytics-*.aasaam.com
 ||flipflapflo.
 ||gonews*.net^
 ||real*traf.ru^
+||f-log-*.grammarly.io^
 ||wa.gmx.
 ||pxl-*.ozone.ru^
 ||mon*-*.tiktokv.us^
@@ -242,6 +214,7 @@ analytics-*.aasaam.com
 ||sock*-goguardian.pusher.com^
 ||basvformu*.xyz^
 ||mcs-va-*.tiktokv.com^
+||events-api*.outfit7.com^
 ||linkexchange.
 ||pangolin*.sgsnssdk.com^
 ||block.s*block.com^
@@ -279,6 +252,7 @@ analytics-*.aasaam.com
 ||cnt.tubeon.
 ||videoclik.
 ||poshalim.
+||events*.cre.ma^
 ||pixel-*.rubiconproject.com^
 ||track.tiara.
 ||orbit*.lun.ua^
@@ -303,6 +277,7 @@ analytics-*.aasaam.com
 ||videoclick.
 ||stats-*.p2pnow.ru^
 ||admulti.
+||eum*.instana.io^
 ||tnc16-*.byteoversea.com^
 ||piwik.*.com.vn^
 ||mf*.advantage.as^
@@ -394,6 +369,7 @@ analytics-*.aasaam.com
 ||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
+||logger-*.dailymotion.com^
 ||iad-*.appboy.com^
 ||minitds-*.info^
 ||jtbo*.nqxvevk.cn^
@@ -415,8 +391,35 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
+<script>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+                }
+                console.log(JSON.parse(xhr.responseText))
+<style>
+            2024 Copyright.  All Rights Reserved.
+        ];
+<head>
+    Privacy Policy
+			Buy this domain.
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||bj*.9669.cn^
@@ -516,6 +519,8 @@ analytics-*.aasaam.com
 ||adsh*.*^
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
 ||clog*.yuanfudao.com^
@@ -541,7 +546,6 @@ analytics-*.aasaam.com
 ||ajx*.online^
 ||cas.*.criteo.com^
 ||datacollector-*.dt.dbankcloud.cn^
-||f-log-*.grammarly.io^
 ||n*adserv.com^
 ||apple.com-*.live^
 ||zbc6hy*.live^
@@ -566,7 +570,6 @@ analytics-*.aasaam.com
 ||adserver.*.yahoodns.net^
 ||fads*z.com^
 ||c*hit.zerkalo.io^
-||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
 ||ac*.pingguolv.com^
 ||api*.batmobil.net^
@@ -615,7 +618,6 @@ analytics-*.aasaam.com
 ||aj1*.online^
 ||zbc6hye*.xyz^
 ||aff*.kolektiva.net^
-||events*.cre.ma^
 ||promo-*.vercel.app^
 ||163487*.qmgmw.com^
 ||adx-*.dbankedge.cn^
@@ -633,7 +635,6 @@ analytics-*.aasaam.com
 ||datacollector-*.dt.hicloud.com^
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
-||logger-*.dailymotion.com^
 ||adsfilebssdlbig.*.kugou.com^
 ||bdlm*.hc360.com^
 ||ad*.nexage.com^
@@ -653,7 +654,6 @@ analytics-*.aasaam.com
 ||batchlogging*-eu.truecaller.com^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
-||eum*.instana.io^
 ||ads*-normal-lq.zijieapi.com^
 ||fads*s.com^
 ||ads-dmp-collect.*.karrotmarket.com^
@@ -671,6 +671,7 @@ analytics-*.aasaam.com
 rgmechanicsgames.com*VPN.exe
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
+||142.91.159.
 ||fapnado.*.php|
 ||fxhpaoxqyajvmdg.
 ||itechpost.com*adbk
@@ -687,7 +688,6 @@ Banner468x60
 ||df.infra.sz.shopee.
 ||fkp.samsungcloudsolution.
 ||centent.streamp1ay.
-||142.91.159.
 ||oempprd.samsungcloudsolution.
 ||sta.zone-telechargement.
 ||sta.wawacity.

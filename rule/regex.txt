@@ -1,4 +1,4 @@
-# Update time: 2024-10-25 09:06:58
+# Update time: 2024-10-25 20:27:54
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -63,7 +63,6 @@ MRelateFeedAd
 ||adsmind.
 ||adsfile.
 ||bigdata.
-||sell*.etlong.com^
 ||smartads.
 ||adshare.
 ||dm-*.toutiao.com^
@@ -125,6 +124,7 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
+||onetrust.
 ||icast.
 ||gg.
 ||union.
@@ -137,8 +137,8 @@ advertisers.js|
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||onetrust.
 ||adstats.
+||sell*.etlong.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^

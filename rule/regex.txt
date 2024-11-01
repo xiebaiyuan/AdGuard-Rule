@@ -1,4 +1,4 @@
-# Update time: 2024-11-01 09:12:27
+# Update time: 2024-11-01 20:27:14
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -182,7 +182,6 @@ analytics-*.aasaam.com
 ||log*-normal-*.tiktokv.us^
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
-||prebid-*.rubiconproject.com^
 ||faro-collector-prod-*.grafana.net^
 ||sgtm.fashionunited.
 ||lt*.tritondigital.com^
@@ -315,7 +314,6 @@ analytics-*.aasaam.com
 ||edgetrksvc.ebay.
 ||eclog*-*.cafe24.com^
 ||host*.polaroid.com^
-||datacollector-*.dt.dbankcloud.cn^
 ||s*.skencituer.com^
 ||underclick.
 ||imp-*.jampp.com^
@@ -400,35 +398,6 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-                }
-                console.log(JSON.parse(xhr.responseText))
-<style>
-            2024 Copyright.  All Rights Reserved.
-        ];
-<head>
-    Privacy Policy
-			Buy this domain.
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||da.hornbach.*^
@@ -553,6 +522,7 @@ body {
 ||www.xxmh*.com^
 ||ajx*.online^
 ||cas.*.criteo.com^
+||datacollector-*.dt.dbankcloud.cn^
 ||n*adserv.com^
 ||apple.com-*.live^
 ||zbc6hy*.live^
@@ -699,4 +669,5 @@ rgmechanicsgames.com*VPN.exe
 ||fxhpaoxqyajvmdg.
 ||itechpost.com*adbk
 ||rgfftupf.
+||prebid-*.rubiconproject.com^
 Banner468x60

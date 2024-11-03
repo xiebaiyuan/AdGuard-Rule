@@ -1,4 +1,4 @@
-# Update time: 2024-11-03 09:11:33
+# Update time: 2024-11-03 20:25:09
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -126,7 +126,6 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||onetrust.
 ||icast.
 ||gg.
 ||union.
@@ -139,6 +138,7 @@ advertisers.js|
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||onetrust.
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -428,8 +428,6 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||bj*.9669.cn^
@@ -529,6 +527,10 @@ analytics-*.aasaam.com
 ||adsh*.*^
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
+||easyads28.*^
+||easyads29.*^
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
 ||clog*.yuanfudao.com^

@@ -1,4 +1,4 @@
-# Update time: 2024-11-11 20:28:01
+# Update time: 2024-11-12 09:04:51
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,6 +55,8 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
+||adstats.
+||ap*.jj20.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -69,7 +71,6 @@ MRelateFeedAd
 ||dm-*.toutiao.com^
 ||player.letvcdn.com*.swf|
 ||d*.wanzhuang.com^
-||adstats.
 ||toujing*.top^
 ||popup.*.js*
 ||ggg.
@@ -121,7 +122,6 @@ oHead6205.appendChild( oScript6205);
 ||adsence.
 ||unityads.
 advertisers.js|
-||ap*.jj20.com^
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
@@ -186,7 +186,6 @@ analytics-*.aasaam.com
 ||sgtm.fashionunited.
 ||lt*.tritondigital.com^
 ||partner.superbahisaffiliates*.com^
-||datacollect*.abtasty.com^
 ||v.tzbox*.xyz^
 ||telemetry*.transcend.io^
 ||cnt.vivatube.
@@ -246,7 +245,6 @@ analytics-*.aasaam.com
 ||hostingcloud.*.wasm^
 ||medialand.
 ||track.*.roku.com^
-||device-metrics-*.amazon.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
 ||get-me-wow.
@@ -262,7 +260,6 @@ analytics-*.aasaam.com
 ||popupclick.
 ||dw-informer-*.newsru.com^
 |piwik.
-||datacollector-*.dt.hicloud.com^
 ||piwik.*.vn^
 ||letssex.
 ||production-adserver-*.amazonaws.com^
@@ -398,6 +395,35 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
+<script>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+                }
+                console.log(JSON.parse(xhr.responseText))
+<style>
+            2024 Copyright.  All Rights Reserved.
+        ];
+<head>
+    Privacy Policy
+			Buy this domain.
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||da.hornbach.*^
@@ -499,35 +525,6 @@ analytics-*.aasaam.com
 ||adsh*.*^
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-                }
-                console.log(JSON.parse(xhr.responseText))
-<style>
-            2024 Copyright.  All Rights Reserved.
-        ];
-<head>
-    Privacy Policy
-			Buy this domain.
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
 ||clog*.yuanfudao.com^
@@ -541,6 +538,7 @@ body {
 ||analytics-rollout-*.amazonaws.com^
 ||api-*.hismarttv.com^
 ||admob-app-id-*.firebaseio.com^
+||datacollect*.abtasty.com^
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zazgbqg*.xyz^
@@ -610,6 +608,7 @@ body {
 ||adservice.google.*^
 ||ad.kisstvshow.*^
 ||appanalysis*.banggood.com^
+||device-metrics-*.amazon.com^
 ||api*.batmobi.net^
 ||widgets.*.webengage.com^
 ||zabdybod*.club^
@@ -636,6 +635,7 @@ body {
 ||mobileoffers-*-download.com^
 ||zaqlovh*.xyz^
 ||collect-v*.51.la^
+||datacollector-*.dt.hicloud.com^
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
 ||adsfilebssdlbig.*.kugou.com^

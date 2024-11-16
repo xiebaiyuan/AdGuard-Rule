@@ -1,4 +1,4 @@
-# Update time: 2024-11-16 09:08:57
+# Update time: 2024-11-16 20:26:43
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3152,7 +3152,6 @@
 0.0.0.0 www.mopub.com
 0.0.0.0 alicdn.bayimob.com
 0.0.0.0 ingameads.gameloft.com
-0.0.0.0 server-ua.imrworldwide.com
 0.0.0.0 static.wkanx.com
 0.0.0.0 m.fenrs.com
 0.0.0.0 jsmxkj.com
@@ -4017,7 +4016,6 @@
 0.0.0.0 ctxtad.tribalfusion.com
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 pic.bloggerads.net
-0.0.0.0 server-sg.imrworldwide.com
 0.0.0.0 ib.snssdk.com.edgekey.net
 0.0.0.0 www.xtgreat.com
 0.0.0.0 t.dsp.mediav.com
@@ -5892,7 +5890,6 @@
 0.0.0.0 www.w1a.cc
 0.0.0.0 www.kunjia.org
 0.0.0.0 hlrcv.stage.adobe.com
-0.0.0.0 server-uk.imrworldwide.com
 0.0.0.0 befd.fanqingzhou.cn
 0.0.0.0 api.tdp.u7u9.com
 0.0.0.0 maldini.xyz
@@ -6610,7 +6607,6 @@
 0.0.0.0 redpaper-10006092.cos.myqcloud.com
 0.0.0.0 adui.tg.meitu.com
 0.0.0.0 cp.003store.com
-0.0.0.0 server-oslo.imrworldwide.com
 0.0.0.0 rp.cacafly.com
 0.0.0.0 v.bayongzx.cn
 0.0.0.0 clkservice.union.youdao.com
@@ -8312,7 +8308,6 @@
 0.0.0.0 s32.cnzz.com
 0.0.0.0 pf.pchome.net
 0.0.0.0 vs.funshion.com
-0.0.0.0 server-se.imrworldwide.com
 0.0.0.0 bds.snssdk.com
 0.0.0.0 secure-asia.imrworldwide.com
 0.0.0.0 hqs1.cnzz.com
@@ -8373,7 +8368,6 @@
 0.0.0.0 hdggcdn.bayimob.com
 0.0.0.0 ad.beta.madserving.com
 0.0.0.0 re.taobao.com
-0.0.0.0 server-stockh.imrworldwide.com
 0.0.0.0 app.acm.dzwww.com
 0.0.0.0 181ue.com
 0.0.0.0 analytics.mopub.com
@@ -8460,7 +8454,6 @@
 0.0.0.0 pre3-ad.alimama.com
 0.0.0.0 monitor.ad4game.com
 0.0.0.0 secure-sg.imrworldwide.com
-0.0.0.0 server-pl.imrworldwide.com
 0.0.0.0 rte.fuoo1.top
 0.0.0.0 e.deimm.com
 0.0.0.0 static.snapmobile.asia
@@ -8480,7 +8473,6 @@
 0.0.0.0 imgg.marketgid.com
 0.0.0.0 online.cnzz.com
 0.0.0.0 a.jyeoo.com
-0.0.0.0 telstra.imrworldwide.com
 0.0.0.0 rcv.aiclk.com
 0.0.0.0 click.adperium.com
 0.0.0.0 ad6.bigmir.net
@@ -8710,7 +8702,6 @@
 0.0.0.0 www.tradeadexchange.com
 0.0.0.0 h01.hotrank.com.tw
 0.0.0.0 song.fanxing.kugou.com
-0.0.0.0 server-ru.imrworldwide.com
 0.0.0.0 dnhfi5nn2dt67.cloudfront.net
 0.0.0.0 newrelic.com
 0.0.0.0 xia.mindmanager.cc
@@ -9028,7 +9019,6 @@
 0.0.0.0 safe-aisle.jointreport-switch.com
 0.0.0.0 ms.ienkdaccessible.cn
 0.0.0.0 i.l.cnn.net
-0.0.0.0 server-us.imrworldwide.com
 0.0.0.0 qhm2.cnzz.com
 0.0.0.0 comm.app.autohome.com.cn
 0.0.0.0 impservice.youdao.com
@@ -10235,6 +10225,7 @@
 0.0.0.0 mhlnk.com
 0.0.0.0 im.xo.pl
 0.0.0.0 bowlgirl.com
+0.0.0.0 server-ua.imrworldwide.com
 0.0.0.0 main-boost.com
 0.0.0.0 sh4sure-images.adbureau.net
 0.0.0.0 ehg-gamespot.hitbox.com
@@ -11820,6 +11811,7 @@
 0.0.0.0 greeninst.com
 0.0.0.0 fashion-online.net
 0.0.0.0 ad.adnetwork.com.br
+0.0.0.0 server-sg.imrworldwide.com
 0.0.0.0 ads.heroldonline.com
 0.0.0.0 xml.yepmedia.com
 0.0.0.0 secure-nz.imrworldwide.com
@@ -15117,6 +15109,7 @@
 0.0.0.0 adebooks.fr
 0.0.0.0 metrics.sun.com
 0.0.0.0 adserver.mobsmith.com
+0.0.0.0 server-uk.imrworldwide.com
 0.0.0.0 image.linkexchange.com
 0.0.0.0 oas-central.east.realmedia.com
 0.0.0.0 canadapost-paymentservice.com
@@ -16349,6 +16342,7 @@
 0.0.0.0 ps.popcash.net
 0.0.0.0 x.iasrv.com
 0.0.0.0 aculo.fr
+0.0.0.0 server-oslo.imrworldwide.com
 0.0.0.0 service001.adtech.fr
 0.0.0.0 www6.counter.bloke.com
 0.0.0.0 old.umcl.us
@@ -19235,6 +19229,7 @@
 0.0.0.0 adserver.netcreators.nl
 0.0.0.0 metrics.nfl.com
 0.0.0.0 ir-de.amazon-adsystem.com
+0.0.0.0 server-se.imrworldwide.com
 0.0.0.0 ad.horvitznewspapers.net
 0.0.0.0 wowanalytics.co.uk
 0.0.0.0 ugo.eu-adcenter.net
@@ -19383,6 +19378,7 @@
 0.0.0.0 latrubune.fr
 0.0.0.0 drugdetox.shengen.ru
 0.0.0.0 c.at.msn.com
+0.0.0.0 server-stockh.imrworldwide.com
 0.0.0.0 todayresearch.com
 0.0.0.0 cloudadservers.com
 0.0.0.0 tr.outbrain.com
@@ -19505,6 +19501,7 @@
 0.0.0.0 abruzzoinitaly.co.uk
 0.0.0.0 coinimp.com
 0.0.0.0 geoweb.e-kolay.net
+0.0.0.0 server-pl.imrworldwide.com
 0.0.0.0 www.winlottofrequently.com
 0.0.0.0 ad27.checkm8.com
 0.0.0.0 spin.spinbox.net
@@ -19534,6 +19531,7 @@
 0.0.0.0 api.mixpanel.com
 0.0.0.0 clickbangpop.com
 0.0.0.0 buyfioricetonline.7h.com
+0.0.0.0 telstra.imrworldwide.com
 0.0.0.0 track.msadcenter.wfm.com
 0.0.0.0 users.tpg.com.au
 0.0.0.0 w102.hitbox.com
@@ -19932,6 +19930,7 @@
 0.0.0.0 mrazens.com
 0.0.0.0 www.90offbags.com
 0.0.0.0 www.drowle.com
+0.0.0.0 server-ru.imrworldwide.com
 0.0.0.0 www.knell.plus.com
 0.0.0.0 securecloud-smart.com
 0.0.0.0 tracking.ibexnetwork.com
@@ -20438,6 +20437,7 @@
 0.0.0.0 feed.4wnet.com
 0.0.0.0 www.simpli.fi
 0.0.0.0 ads10.speedbit.com
+0.0.0.0 server-us.imrworldwide.com
 0.0.0.0 kqzyfj.com
 0.0.0.0 gpaper191.112.2o7.net
 0.0.0.0 counter31.bravenet.com

@@ -1,4 +1,10 @@
 !-------------白名单---------------
+#巴拉巴拉 鸿蒙
+@@||grpc.biliapi.net^$important
+
+#鸿蒙Next 手机
+@@||*.dbankcloud.*^$important
+
 
 #图床
 @@||pic.imgdb.cn
@@ -24,7 +30,6 @@
 
 #公共CDN
 @@||bootcdn.net^$important
-
 # Server酱
 @@||sctapi.ftqq.com^$important
 @@||api.apijia.cn^$important

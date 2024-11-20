@@ -4,7 +4,7 @@
 
 #鸿蒙Next 手机
 @@||*.dbankcloud.*^$important
-
+@@||httpdns.platform.dbankcloud.com^$important
 
 #图床
 @@||pic.imgdb.cn

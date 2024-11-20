@@ -7,6 +7,11 @@
 @@||httpdns.platform.dbankcloud.com^$important
 
 @@||dbankcloud.com^$important
+@@||grs.platform.dbankcloud.ru^$important
+@@||grs.platform.dbankcloud.com^$important
+@@||grs.platform.dbankcloud.cn^$important
+@@||grs.platform.dbankcloud.asia^$important
+@@||grs.platform.dbankcloud.eu^$important
 
 #图床
 @@||pic.imgdb.cn

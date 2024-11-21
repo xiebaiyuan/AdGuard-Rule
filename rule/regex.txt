@@ -1,4 +1,4 @@
-# Update time: 2024-11-21 09:09:41
+# Update time: 2024-11-21 20:29:56
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,6 +55,7 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -74,7 +75,6 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||onetrust.
 ||adx.
 ||adx-
 ||adsfs.
@@ -162,7 +162,6 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||ad*.aginomoto.com
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -171,11 +170,8 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
-||rgfftupf.
 ||adservice.google.
-||counter*.stat.ovh^
 ||host*.carl-ras.dk^
-||ads.livetv*.me^
 ||allsportsflix.
 ||log*-normal-*.tiktokv.us^
 ||iphone-caviar.ru*entranceId
@@ -294,7 +290,6 @@ analytics-*.aasaam.com
 ||mf*.advantage.as^
 ||query*.petametrics.com^
 ||button.blogs.yandex.
-||fxhpaoxqyajvmdg.
 ||flurry.agentportal-*.yahoodns.net^
 ||host*.rigbyandpeller.com^
 ||servo-report.keepstreams.*^
@@ -406,35 +401,7 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-                }
-                console.log(JSON.parse(xhr.responseText))
-<style>
-            2024 Copyright.  All Rights Reserved.
-        ];
-<head>
-    Privacy Policy
-			Buy this domain.
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
+||ad*.aginomoto.com
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||da.hornbach.*^
@@ -682,13 +649,17 @@ body {
 ||collector*.ex.co^
 ||analytics.*.sky.com^
 ||ads*.opensubtitles.org^
-||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
-||centent.streamp1ay.
-||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
+||rgfftupf.
 @@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||counter*.stat.ovh^
+||centent.streamp1ay.
+||ads.livetv*.me^
+||142.91.159.
+||fxhpaoxqyajvmdg.
 ||cintent.streanplay.
 Banner468x60

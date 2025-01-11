@@ -1,4 +1,4 @@
-# Update time: 2025-01-10 20:28:18
+# Update time: 2025-01-11 09:07:29
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -139,7 +139,6 @@ advertisers.js|
 ||uc*.atobo.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
-||bdlm*.hc360.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||fpb*.51edu.com^
@@ -162,7 +161,6 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||ad*.aginomoto.com
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -237,7 +235,6 @@ analytics-*.aasaam.com
 ||log*.byteoversea.com^
 ||mon*-misc-lf.fqnovel.com^
 ||logs*.smithsonian.museum^
-||cs*.mp3bars.com^
 ||bar*.shinobi.jp^
 ||counter*.freecounter.ovh^
 ||tracking-v*.a.run.app^
@@ -277,11 +274,9 @@ analytics-*.aasaam.com
 ||analytics.ahrefs.
 ||s*.adduplex.com^
 ||mon*-platform-*.tiktokv.com^
-||collect-elb-*.amazonaws.com^
 ||collector-*.tvsquared.com^
 ||adserver1.
 ||log-*.previewnetworks.com^
-||counter*-yadro*-ru.unblocked.lol^
 ||backstory.ebay.
 ||adx-*.dbankcloud.
 ||pop-parad.
@@ -304,7 +299,6 @@ analytics-*.aasaam.com
 ||host*.rigbyandpeller.com^
 ||servo-report.keepstreams.*^
 ||tw*.netcore.co.in^
-||clog*.yuanfudao.com^
 ||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||rum*.a.trbcdn.net^
@@ -324,7 +318,6 @@ analytics-*.aasaam.com
 ||u*.takru.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||www.fuze-sea*.xyz^
-||browser-intake-*-datadoghq.com^
 ||metrics*.fitanalytics.com^
 ||edgetrksvc.ebay.
 ||eclog*-*.cafe24.com^
@@ -385,7 +378,6 @@ analytics-*.aasaam.com
 ||ulog*.kwaipros.com^
 ||events-*.op.hicloud.com^
 ||158.247.208.
-||banner.*.tccapis.com^
 ||geoloc*.geostats.ovh^
 |load.gtm.
 ||ssp*.rtb.beeline.ru^
@@ -421,35 +413,7 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-			Buy this domain. | More domains at Seo.Domains
-                }
-            2025 Copyright.  All Rights Reserved.
-                console.log(JSON.parse(xhr.responseText))
-<style>
-        ];
-<head>
-    Privacy Policy
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
+||ad*.aginomoto.com
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||da.hornbach.*^
@@ -556,6 +520,7 @@ body {
 ||tracker*.qcloud.com^
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
+||clog*.yuanfudao.com^
 ||cj1*.online^
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
@@ -569,6 +534,7 @@ body {
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zazgbqg*.xyz^
+||browser-intake-*-datadoghq.com^
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
 ||opnked*.xyz^
@@ -620,6 +586,7 @@ body {
 ||adcs-*.myappsget.com^
 ||ads*.textra.me^
 ||aj2*.online^
+||cs*.mp3bars.com^
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
 ||log*-misc-lq.amemv.com^
@@ -648,6 +615,7 @@ body {
 ||promo-*.vercel.app^
 ||163487*.qmgmw.com^
 ||adx-*.dbankedge.cn^
+||banner.*.tccapis.com^
 ||tblog-*.kgslb.com^
 ||cdn-adn-*.rayjump.com^
 ||zahrvfbd*.xyz^
@@ -660,13 +628,16 @@ body {
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
 ||adsfilebssdlbig.*.kugou.com^
+||bdlm*.hc360.com^
 ||ad*.nexage.com^
 ||aj1*.xyz^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||util-*.simply-hentai.com^
 ||aan.amazon.*^
+||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
+||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
 ||gtlpa*.com^
 ||auth-*.hismarttv.com^

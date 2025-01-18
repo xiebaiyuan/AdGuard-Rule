@@ -1,4 +1,4 @@
-# Update time: 2025-01-17 20:26:38
+# Update time: 2025-01-18 09:03:17
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -4896,7 +4896,6 @@
 0.0.0.0 www.adspoll.com
 0.0.0.0 logc1.xiti.com
 0.0.0.0 diazepam.shengen.ru
-0.0.0.0 www.mywot.com
 0.0.0.0 ehg-sonymusic.hitbox.com
 0.0.0.0 rtb16.adscience.nl
 0.0.0.0 k6.karbilyazilim.com
@@ -6110,6 +6109,7 @@
 0.0.0.0 thisone.online
 0.0.0.0 ads.movieweb.com
 0.0.0.0 counterbot.com
+0.0.0.0 vc-login.com
 0.0.0.0 niche247.trade
 0.0.0.0 ehg-pacifictheatres.hitbox.com
 0.0.0.0 bannersnack.fr

@@ -1,4 +1,4 @@
-# Update time: 2025-03-14 20:28:31
+# Update time: 2025-03-15 09:09:08
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -161,38 +161,6 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||ad*.aginomoto.com
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-			Buy this domain. | More domains at Seo.Domains
-                }
-            2025 Copyright | All Rights Reserved.
-                console.log(JSON.parse(xhr.responseText))
-<style>
-        ];
-<head>
-    Privacy Policy
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -295,6 +263,9 @@ body {
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
+||ad*.aginomoto.com
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||ping*.qq.com^
@@ -327,6 +298,7 @@ body {
 ||ads*.production-public.tubi.io^
 ||ads-*-nfl.yinzcam.com^
 ||iptracker-lb-*.amazonaws.com^
+||ts-p2p*pull*com^
 ||ali-bj-pcdn-*.biliapi.net^
 ||ce-global-track-*.amazonaws.com^
 ||device-metrics-us*.amazon.com^
@@ -386,7 +358,9 @@ body {
 ||mcs-*.lemon8-app.com^
 ||cdn-adn-*.rayjump.com^
 ||zahrvfbd*.xyz^
+||stlog*-local.kakao.com^
 ||adx-*.op.dbankcloud.com.edgekey.net^
+||p2pup*.gamedl.qq.com^
 ||zcchyr*.xyz^
 ||zaqlovh*.xyz^
 ||datacollector-*.dt.hicloud.com^
@@ -406,6 +380,7 @@ body {
 ||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
 ||auth-*.hismarttv.com^
+||ws-p2p*pull*com^
 ||batchlogging*-eu.truecaller.com^
 ||stats-*.p2pnow.ru^
 ||yhsfsdv*.com^
@@ -436,6 +411,7 @@ body {
 ||host*.ncoi.nl^
 ||lively-collect-elb-*.amazonaws.com^
 ||analytics-rollout-*.amazonaws.com^
+||qn-*pcdn.cdn.huya.com^
 ||zazgiyoh*.world^
 ||zazgbqg*.xyz^
 ||browser-intake-*-datadoghq.com^
@@ -447,6 +423,7 @@ body {
 ||datacollector-*.dt.dbankcloud.cn^
 ||n*adserv.com^
 ||apple.com-*.live^
+||ks-p2p*pull*com^
 ||batchlogging*-noneu.truecaller.com^
 ||apple-*.le.com^
 ||imp-*.jampp.com^
@@ -473,6 +450,7 @@ body {
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
 ||ads*-normal*.zijieapi.com^
+||xy-*pcdn.msstatic.com^
 ||ac*.faxingchina.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
@@ -509,6 +487,7 @@ body {
 ||geoloc*.geostats.ovh^
 ||ssp*.rtb.beeline.ru^
 ||log-*.zadn.vn^
+||qn-*pcdn.cdn.msstatic.com^
 ||js.*2023*.live^
 ||collect-v*.51.la^
 ||logger-*.dailymotion.com^
@@ -519,7 +498,9 @@ body {
 ||iad-*.braze.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
+||hw-p2p*pull*com^
 ||gtlpa*.com^
+||ali-p2p*pull*com^
 ||log*-normal-lq.toutiaoapi.com^
 ||quangcao-*.epicdn.me^
 ||aem-collector-*.kgslb.com^
@@ -659,7 +640,6 @@ analytics-*.aasaam.com
 ||stats*.videonow.ru^
 ||pixel.archive.
 ||track.tiara.
-||stlog*-local.kakao.com^
 ||orbit*.lun.ua^
 ||popupclick.
 ||ad*.thisisgame.com^
@@ -694,6 +674,7 @@ analytics-*.aasaam.com
 ||broredir*s.site^
 ||admulti.
 ||parkdomainreal*.site^
+||tnc16-*.byteoversea.com^
 ||mobiadvert*.livesportmedia.eu^
 ||popunder.
 ||livetracker.*.pangea-cms.com^
@@ -708,7 +689,6 @@ analytics-*.aasaam.com
 ||zbb.bbb.*.pics^
 ||tw*.netcore.co.in^
 ||v*.sitecounter.site^
-||tnc16-*.byteoversea.com^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe

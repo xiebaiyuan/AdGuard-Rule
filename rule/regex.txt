@@ -1,4 +1,4 @@
-# Update time: 2025-04-09 09:12:44
+# Update time: 2025-04-09 20:31:20
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -164,6 +164,35 @@ advertisers.js|
 ||ad*.aginomoto.com
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
+<script>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+			Buy this domain. | More domains at Seo.Domains
+                }
+            2025 Copyright | All Rights Reserved.
+                console.log(JSON.parse(xhr.responseText))
+<style>
+        ];
+<head>
+    Privacy Policy
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -396,6 +425,7 @@ advertisers.js|
 ||servo-report.keepstreams.*^
 ||pangolin-sdk-toutiao*.com^
 ||clog*.yuanfudao.com^
+||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||w*.*skwai.com^
 ||analytics-*-nfl.yinzcam.com^
@@ -510,7 +540,6 @@ advertisers.js|
 analytics-*.aasaam.com
 ||an.yandex.
 ||gtmdev.jabra.
-||creative*.bidease.com^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
@@ -676,7 +705,6 @@ analytics-*.aasaam.com
 ||broredir*s.site^
 ||admulti.
 ||parkdomainreal*.site^
-||tnc16-*.byteoversea.com^
 ||mobiadvert*.livesportmedia.eu^
 ||popunder.
 ||livetracker.*.pangea-cms.com^
@@ -691,35 +719,7 @@ analytics-*.aasaam.com
 ||zbb.bbb.*.pics^
 ||tw*.netcore.co.in^
 ||v*.sitecounter.site^
-    xhr.send();
-        loadFeed(...getLoadFeedArguments());
-    <script>
-<style>
-        ];
-                arguments.push(this[possibleArguments[i]]);
-    }
-        return arguments;
-};
-                }
-            2025 Copyright | All Rights Reserved.
-                console.log(JSON.parse(xhr.responseText))
-<head>
-    Privacy Policy
-<script>
-            pageOptions
-                    return;
-    };
-            } else {
-h1 {
-	}
-    function getLoadFeedArguments() {
-<!DOCTYPE html>
-        }
-body {
-                console.log('There was a problem with the request.');
-            }
-}
-			Buy this domain. | More domains at Seo.Domains
+||tnc16-*.byteoversea.com^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe

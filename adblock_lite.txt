@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-05-19 17:39:15(GMT+8) 
-! Total count: 30423
+! ! Version: 2025-05-19 20:33:48(GMT+8) 
+! Total count: 30427
  
 ###ADtip
 ###Ad_windows
@@ -17270,6 +17270,7 @@ zzzyk.com###Tinfo
 ||ahp19.site^
 ||ahp24.site^
 ||ahpengjie.com^
+||ahqihkm.top^
 ||ahuys.net/Runtime/js/
 ||ahuys.net/sys
 ||ai.bioon.com^
@@ -20455,6 +20456,7 @@ zzzyk.com###Tinfo
 ||etahub.com^
 ||etallkiq.com^
 ||etbh.cn^
+||etdggwj.top^
 ||etest8.com/js/158/infojs/
 ||etf88.com/jjb/*_ad$script
 ||etf88.com/swf/
@@ -26437,6 +26439,7 @@ zzzyk.com###Tinfo
 ||ruanjiancms.com^
 ||ruanyifeng.com/9he/
 ||rubmdu.top^
+||rudhjah.top^
 ||rugao35.com/Public/config/Couplet/Index
 ||ruguoapp.com^$domain=aixiaoju.com
 ||rui61.cn^
@@ -28687,6 +28690,7 @@ zzzyk.com###Tinfo
 ||wbiao.cn/common/newsbannerAds/
 ||wbiao.co/src2/js/expand/fudong/
 ||wbkdsg.xyz^
+||wbqhehokmy.com^
 ||wbqqo.com^$third-party
 ||wbupbv.com^
 ||wbvfj.xyz^

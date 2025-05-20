@@ -63,7 +63,9 @@ public class AdgRuleApplication implements ApplicationRunner {
 
         //使用布隆过滤器实现去重
         BloomFilter<String> filter = BloomFilter
-                .create(Funnels.stringFunnel(Charset.defaultCharset()), 1000000);
+                .create(Funnels.stringFunnel(Charset.defaultCharset()),
+                        1000000,    // 实际约20万，预留2.5倍空间
+                        0.01);
 
         //远程规则
         ruleConfig.getRemote().stream()

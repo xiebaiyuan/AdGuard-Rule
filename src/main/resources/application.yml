@@ -25,12 +25,12 @@ application:
       #- 'https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts.txt' #yhosts
       - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #大圣净化
       #- 'https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list' #Domains classified as tracking or advertising
-      - 'https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt' #AdRules AdGuard Full List
+      #- 'https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt' #AdRules AdGuard Full List
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt' #adguard base
       #自用添加↓
       - 'https://anti-ad.net/easylist.txt' #name: anti-AD
       #- 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' #name: StevenBlack/hosts规则
-      - 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt' #name: AdGuard CNAME 伪装跟踪器列表
+      - 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt' #name: AdGuard CNAME 伪装跟踪器列表
       - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt' #name: AdGuard DNS filter
       - 'https://raw.githubusercontent.com/Crystal-RainSlide/AdditionalFiltersCN/master/CN.txt' #name: AdditionalFiltersCN
       - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' #name: ADgk 移动广告规则
@@ -51,7 +51,7 @@ application:
       - 'https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt' #name: 知乎 普通版
       #- 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt' #name: 217heidai/adblockfilters去重合并(比较大)
       - 'https://raw.githubusercontents.com/timlu85/AdGuard-Home_Youtube-Adfilter/master/Youtube-Adfilter-Web.txt' #name: Youtube-Adfilter-Web
-      - 'https://raw.githubusercontents.com/91ajames/ublock-filters-ulist-youtube/main/blocklist.txt' #name: ublock-filters-ulist-youtube
+      #  - 'https://raw.githubusercontents.com/91ajames/ublock-filters-ulist-youtube/main/blocklist.txt' #name: ublock-filters-ulist-youtube
       - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #name: 秋风广告规则,针对Android广告
       #KoolProxy规则
       - 'https://github.com/ilxp/koolproxy/raw/main/rules/koolproxy.txt' #name:静态白名单规则
@@ -63,7 +63,7 @@ application:
       #uBlock内置规则
       - 'https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/filters/filters.txt' #name: uBlock filters
       - 'https://ublockorigin.pages.dev/filters/badware.txt' #name: uBlock filters – Badware risks
-      - 'https://gitcdn.link/cdn/uBlockOrigin/uAssetsCDN/main/filters/privacy.txt' #name: uBlock filters – Privacy
+      - 'https://raw.githubusercontent.com/uBlockOrigin/uAssetsCDN/refs/heads/main/filters/privacy.min.txt' #name: uBlock filters – Privacy
       - 'https://ublockorigin.github.io/uAssets/filters/quick-fixes.txt' #name: uBlock filters – Quick fixes
       - 'https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/resource-abuse.txt' #name: uBlock filters – Resource abuse
       - 'https://gitcdn.link/cdn/uBlockOrigin/uAssetsCDN/main/filters/unbreak.txt' #name: uBlock filters – Unbreak

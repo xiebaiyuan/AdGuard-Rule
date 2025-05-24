@@ -52,6 +52,9 @@
 
 ||ulogs.umeng.com^$important
 
+||in-addr.arpa^$important
+||.ip6.arpa^$important
+
 !-----------------待定-----------------
 
 #美团推送(大众点评)

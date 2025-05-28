@@ -126,3 +126,7 @@ cjcx.neea.edu.cn#@#[style="visibility: visible; display: block;"]
 #189
 @@||safe.zhanhuo.com^$domain=safe.zhanhuo.com
 ! --------白名单End-------- !
+
+!抖音疯狂请求
+||polaris3-normal-hl.zijieapi.com^
+||mssdk3-normal-lf.zijieapi.com^

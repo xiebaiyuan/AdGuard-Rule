@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-05-28 15:28:21(GMT+8) 
-! Total count: 30558
+! ! Version: 2025-05-28 20:33:42(GMT+8) 
+! Total count: 30561
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -16515,6 +16515,7 @@ zzzyk.com###Tinfo
 ||69shux.com/js/otherad.
 ||69t49.com/floating/layer.js
 ||6avz.com^$script,third-party
+||6c641lgikp.top^
 ||6cs.icu^
 ||6cyfvvs.com^
 ||6efgcdcjr000.fun^
@@ -27344,6 +27345,7 @@ zzzyk.com###Tinfo
 ||static.ptoahaistais.com^
 ||static.rongkao.com^
 ||static.tohomh123.com/js/funasd.js
+||static.wjxcdn.com^
 ||static.xshuyaya.com/m/d.js
 ||static.youku.com/*/index/js/iresearch.js
 ||static.youku.com/*/js/cps.js
@@ -28675,6 +28677,7 @@ zzzyk.com###Tinfo
 ||vrinqop.icu^
 ||vrlvnz.xyz^
 ||vrosqutsgh.com^
+||vrow.cn^
 ||vrr.name^
 ||vrrw.net//templets/default/js/ad.js
 ||vrulqil.com^

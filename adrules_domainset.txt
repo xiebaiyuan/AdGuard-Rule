@@ -1,6 +1,6 @@
 # Title:AdRules Domain List (Clash) 
-# Update: 2025-05-28 09:17:18(GMT+8)
-# 136061 Rules
+# Update: 2025-05-28 15:28:22(GMT+8)
+# 136102 Rules
 +.0.101tubeporn.com
 +.0.code.cotsta.ru
 +.0.cosmicnewspulse.com
@@ -402,6 +402,7 @@
 +.100widgets.com
 +.1017.cn
 +.101m3.com
++.1023f6e00d.com
 +.1024mzs.pw
 +.10288299.xyz
 +.1028images.com
@@ -1189,7 +1190,6 @@
 +.2c948bc4ef.8426208bdb.com
 +.2cab52d2ae.711f8130e4.com
 +.2cba2742a4.com
-+.2ce064f854.766935bca8.com
 +.2cjlj3c15.de
 +.2cnjuh34jbhub.com
 +.2cnjuh34jbman.com
@@ -1714,6 +1714,7 @@
 +.439f4b8c75.com
 +.43a.icu
 +.43e1628a5f.com
++.43eksc8w59.com
 +.43gw.cn
 +.43ors1osh.com
 +.43sjmq3hg.com
@@ -2316,7 +2317,6 @@
 +.6ac78725fd.com
 +.6angebot.ch
 +.6avz.com
-+.6b49bc9aef.1023f6e00d.com
 +.6b6c1b838a.com
 +.6b70b1086b.com
 +.6b856ee58e.com
@@ -2466,6 +2466,7 @@
 +.76236osm1.ru
 +.7631.com
 +.76359a95dd.com
++.766935bca8.com
 +.7671.79j68qav2.com
 +.7676.com
 +.76802.net
@@ -15778,6 +15779,7 @@
 +.appredirect.snapdeal.com
 +.apprefaculty.pro
 +.apprehensivecommercial.pro
++.apprenticelandfallenough.com
 +.appres.camera360.com
 +.appriating.com
 +.appriedtheligh.org
@@ -15870,6 +15872,7 @@
 +.appwtehujwi.com
 +.appxufopj.com
 +.appyrinceas.com
++.appyrinceas.org
 +.appzery.com
 +.apqcjj.celford.com
 +.apqhum.spartina449.com
@@ -16073,6 +16076,7 @@
 +.arena.altitudeplatform.com
 +.arena.thyngster.com
 +.arenosegesten.shop
++.arepushedadorn.com
 +.arewcdf116.cn
 +.argenabovethe.com
 +.argeredru.info
@@ -16803,6 +16807,7 @@
 +.athletedurable.com
 +.athletethrong.com
 +.athlg.com
++.atholicncesispe.com
 +.atholicncesispe.info
 +.athtku.lerros.com
 +.athyimemediat.com
@@ -17786,6 +17791,7 @@
 +.azq.zozo.jp
 +.azqohjahfo.com
 +.azqqloblawqbj.top
++.azqqlobqwomqr.top
 +.azrwwodreta.com
 +.azrxtr.trenyrkarna.cz
 +.azscgj.penningtons.com
@@ -19365,7 +19371,6 @@
 +.berryessa.stats.live-video.net
 +.berryhillfarmgwent.com
 +.berserkhydrant.com
-+.bertasxt.com
 +.berthashuzzard.shop
 +.berthfrankly.com
 +.bertrambawdily.shop
@@ -22131,7 +22136,6 @@
 +.buycialisonline.7h.com
 +.buyeasy.by
 +.buyer.okiela.com
-+.buyfingermoney.company.com
 +.buyfioricetonline.7h.com
 +.buyfioricetonline.freeservers.com
 +.buyflood.com
@@ -24806,6 +24810,7 @@
 +.chiq-cloud.com
 +.chiralboutons.top
 +.chirmsseaman.shop
++.chirpscacur.com
 +.chirpyreemergespotty.com
 +.chirui.net
 +.chiselhld.top
@@ -26743,6 +26748,7 @@
 +.collections.equifax.com
 +.collectiveablygathering.com
 +.collectiveaudience.co
++.collectivequestioningcompartment.com
 +.collector-1.ex.co
 +.collector-analytics.efigence.com
 +.collector-api.99designs.com
@@ -28034,6 +28040,7 @@
 +.coolerads.com
 +.coolerconvent.com
 +.coolerpassagesshed.com
++.coolest3d.com
 +.coolestbasis.com
 +.coolestcatcare.com
 +.coolestpod.com
@@ -34214,6 +34221,7 @@
 +.dawnnationaladvertiser.com
 +.dawplm.com
 +.dawtittalky.shop
++.dawurtinsumpoaz.net
 +.dax.yle.fi
 +.daxiu01.oss-accelerate.aliyuncs.com
 +.day66.com
@@ -35058,6 +35066,7 @@
 +.design.nanawall.com
 +.designatejay.com
 +.designbloxlive.com
++.designbyus.online
 +.designednetwork.com
 +.designernoise.com
 +.designeropened.com
@@ -39409,6 +39418,7 @@
 +.eflewroundand.com
 +.efm.verintsystemsinc.com
 +.efmwfw.bellcosme.com
++.efnjfbkge.com
 +.efortiessdate.net
 +.eforu.com
 +.efreecode.com
@@ -41112,10 +41122,10 @@
 +.eserinemersion.shop
 +.eservices.lubetech.com
 +.eset-affiliate.de
++.esfljmhdtpdvj.xyz
 +.esfuhb.osohshiki.jp
 +.esgic.1.p2l.info
 +.esgqye.trendhim.ca
-+.eshaalfawson.shop
 +.eshkol.io
 +.eshkol.one
 +.eshouloo.net
@@ -41788,6 +41798,7 @@
 +.events.santander.co.uk
 +.events.sd-nbb.de
 +.events.shareably.net
++.events.shoplift.ai
 +.events.sk.ht
 +.events.split.io
 +.events.squarespace.com
@@ -42457,6 +42468,7 @@
 +.f5.dfcwg.com
 +.f5.mtqys.com
 +.f5.track-mv-01.com
++.f522b60e9e.com
 +.f53d954cc5.com
 +.f54cd504.xyz
 +.f58x48lpn.com
@@ -42896,7 +42908,6 @@
 +.faze10.com
 +.faze2.com
 +.faze24.com
-+.faze3.com
 +.faze4.com
 +.faze40.com
 +.faze47.com
@@ -43338,6 +43349,7 @@
 +.fev8.flourishpath.online
 +.feverfreeman.com
 +.fevhviqave.xyz
++.fevrvd.top
 +.few-politics.com
 +.fewergkit.com
 +.fewjuice.com
@@ -45148,6 +45160,7 @@
 +.freefuelcoupon.com
 +.freegeoip.app
 +.freegeoip.net
++.freegiftscards.shop
 +.freehitscounter.org
 +.freehookup.link
 +.freeinvisiblecounters.com
@@ -45267,6 +45280,7 @@
 +.frizzannoyance.com
 +.frllfmjaku.com
 +.frmebf.fratelligiacomel.it
++.frmmqfwviupoa.today
 +.frms.fiserv.com
 +.frntzz.xyz
 +.froancefootball.fr
@@ -45416,6 +45430,7 @@
 +.ftpshop.com.vn
 +.ftpshopvn.com
 +.ftpxha.apoioentrega.com
++.ftqogglkyycok.com
 +.ftqzgg.jollyroom.de
 +.ftslrfl.com
 +.ftte.xyz
@@ -45533,6 +45548,7 @@
 +.fundanemt.org
 +.fundatingquest.fun
 +.fundingchoicesmessages.google.com
++.fundingsidenote.com
 +.fundraising.centuryresources.com
 +.fundrescuetech.com
 +.fundtraveller.com
@@ -47161,6 +47177,7 @@
 +.ggbet.name
 +.ggbetapk.com
 +.ggbetss.com
++.ggbxcidvjkel.com
 +.ggc.cmvideo.cn
 +.ggdata1.cnr.cn
 +.ggdm1.nhaidu.net
@@ -48843,7 +48860,6 @@
 +.gogglebox26.fun
 +.gogglemessenger.com
 +.gogiworld.com
-+.goglle.com
 +.gogord.com
 +.gogousenet.com
 +.gohere.pl
@@ -53324,6 +53340,7 @@
 +.hub.hubinternational.com
 +.hub5btmain.sandai.net
 +.hub5emu.sandai.net
++.hubarejnbsobic.com
 +.hubbabu2bb8anys09.com
 +.hubble.netease.com
 +.hubbyobjectedhugo.com
@@ -57816,6 +57833,7 @@
 +.irpush.com
 +.irqaci.xyz
 +.irqewz.vilebrequin.com
++.irqkfyeoyiac.com
 +.irqoqr.industrywest.com
 +.irradiateher.com
 +.irradiatestartle.com
@@ -58994,6 +59012,7 @@
 +.jisiedu.com
 +.jisucn.com
 +.jitanvlw.com
++.jitdlj.icu
 +.jitoassy.com
 +.jitsu.ixbt.com
 +.jitterspauperusher.com
@@ -60477,6 +60496,7 @@
 +.kegimminent.com
 +.kehalim.com
 +.kehuduan.com
++.keithozevjfnc.com
 +.keiztimzdbjt.click
 +.kejasosy.com
 +.kejet.com
@@ -61241,6 +61261,7 @@
 +.koala.moontells.com
 +.koala.mynestbox.co.uk
 +.koala.readyfive.io
++.koalatuba.top
 +.koalaups.com
 +.koanewhaideeb.com
 +.koapsout.com
@@ -69376,6 +69397,7 @@
 +.magicianboundary.com
 +.magicianguideours.com
 +.magicianimploredrops.com
++.magicianmost.com
 +.magicintim.ru
 +.magicminibox.com
 +.magicpixel.io
@@ -76637,6 +76659,7 @@
 +.moralis-api.zip
 +.moralis-node.dev
 +.mordeegroo.net
++.mordentmyxoma.com
 +.mordoops.com
 +.more-data.ru
 +.more-followers.com
@@ -76780,6 +76803,7 @@
 +.move.azets.se
 +.movemeal.com
 +.movemeforward.co
++.movependulous.com
 +.moversa.com
 +.movesickly.com
 +.moveyouforward.co
@@ -77340,6 +77364,7 @@
 +.mulecleared.com
 +.mulesto.com
 +.muletatyphic.com
++.mulllvad.org
 +.mullvaad.net
 +.multi.xnxx.com
 +.multibux.org
@@ -77436,6 +77461,7 @@
 +.mutualhappy.com
 +.muwmedia.com
 +.muwqiga.icu
++.muxasqansttaou.com
 +.muxingkj.com
 +.muzarabeponym.website
 +.muzhskoy.xyz
@@ -85327,6 +85353,7 @@
 +.pcgpjj.bedstyle.jp
 +.pcgriz.junghanswolle.ch
 +.pci.aon.com
++.pcibfowzokc.com
 +.pcidata.cn
 +.pciidk.shopee.vn
 +.pciokm.glamuse.com
@@ -87211,6 +87238,7 @@
 +.poachostistour.net
 +.poapeecujiji.com
 +.poaptapuwhu.com
++.poarichivoawie.net
 +.poasotha.com
 +.poavoabe.net
 +.poawooptugroo.com
@@ -87314,6 +87342,7 @@
 +.polarcdn-terrax.com
 +.polaris.truevault.com
 +.polaris.zijieapi.com
++.polaris3-normal-hl.zijieapi.com
 +.polarismagnet.com
 +.polarmobile.com
 +.pole.6rooms.com
@@ -88922,6 +88951,7 @@
 +.ptsyhasifubi.buzz
 +.pttraffic.online
 +.pttsite.com
++.ptubsumsoay.net
 +.ptugnins.net
 +.ptukasti.com
 +.ptumsess.com
@@ -89803,6 +89833,7 @@
 +.qdmil.com
 +.qdn4ydsg3s.com
 +.qdnxys.cotswoldco.com
++.qdodqhbmmb.com
 +.qdoeki.xyz
 +.qdolvc.bicicletapegas.ro
 +.qdoshby.top
@@ -90741,6 +90772,7 @@
 +.qwuaqrxfuohb.com
 +.qwuopcbilw.com
 +.qwursery.top
++.qwvqbeqorrobv.top
 +.qwvv.com
 +.qwvvoaykyyvj.top
 +.qwwsbnfspagbbn.com
@@ -91630,6 +91662,7 @@
 +.reclinenumbermen.com
 +.reclod.com
 +.recmd.html5.qq.com
++.reco.target2sell.com
 +.recogerconsentimiento.com
 +.recognified.net
 +.recognisetorchfreeway.com
@@ -93581,6 +93614,7 @@
 +.royalhedgies.com
 +.royalshop2021.shop
 +.royalsweeper.com
++.royaltyfig.com
 +.royapp.com
 +.royplz.scottsmenswear.com
 +.royzgi.giftishow.com
@@ -106089,6 +106123,7 @@
 +.spot.spsfactory.com
 +.spotchannel02.com
 +.spotgee.com
++.spotless-wood.pro
 +.spotlessabridge.com
 +.spotlesscomplaint.com
 +.spotlessincome.pro
@@ -110962,6 +110997,7 @@
 +.stirdevelopingefficiency.com
 +.stirringdebrisirriplaceableirriplaceable.com
 +.stiseeteeshauy.com
++.stistucuso.com
 +.stithauzouleesy.com
 +.stiwa.test.de
 +.stjoe.psjhealth.org
@@ -111013,6 +111049,7 @@
 +.stonkstime.com
 +.stonysuingtartness.com
 +.stoodthestatueo.com
++.stoogoofaltimpu.net
 +.stookoth.com
 +.stoomawy.net
 +.stoopfalse.com
@@ -111344,6 +111381,7 @@
 +.stupidityscream.com
 +.stupidscene.com
 +.stupidsnake.com
++.stuppmisrule.shop
 +.stupsouchig.com
 +.sturdyarrival.com
 +.sturdysnail.com
@@ -123432,6 +123470,7 @@
 +.uaid.vtwenty.com
 +.uaiosio.top
 +.uaiqp.top
++.uaivqzpqzehth.love
 +.uajzus.ashford.com
 +.ualkzq.moobel1.ee
 +.uamobile.net
@@ -132061,6 +132100,7 @@
 +.wyaopp.lacoccinelle.net
 +.wydpt.com
 +.wyelmp.vidaxl.si
++.wyeosamxhgqwt.world
 +.wyglyvaso.com
 +.wyhifdpatl.com
 +.wyidsbopxpifd.love
@@ -134712,6 +134752,7 @@
 +.yuayku.xyz
 +.yucanesiote.top
 +.yucefa.cn
++.yuckedklunk.com
 +.yudedj.canadianprotein.com
 +.yudvl.org
 +.yuearanceofam.info

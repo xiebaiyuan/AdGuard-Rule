@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-05-29 20:36:32(GMT+8) 
-! Total count: 30574
+! ! Version: 2025-05-30 09:14:56(GMT+8) 
+! Total count: 30583
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -4116,19 +4116,11 @@ $websocket,domain=wap.yushuwu.cloud
 91lai.com##.showimgs
 91porn.com##.preroll-blocker
 91porn.com#@#.vjs-preroll
-91porna.com###app-nav > ul > li:has(> a.app-nav-item[target="_blank"]:not([href*="91porna.com"]))
-91porna.com##.ad-dialog
 91porna.com##.carousel-container-bottom
 91porna.com##.carousel-container:has(#carouselExampleInterval)
-91porna.com##.dx-banner-item
 91porna.com##.row > div.flex-container:has(> a[href][target="_blank"] > img)
 91porna.com##.row > div[class^="col"]:has(> .video-wrap > a.checkNum)
-91porna.com##.text-mini:has(> .dx-recommend-icons)
-91porna.com##.video-items > li:has(> a.checkNum)
-91porna.com##a.checkNum[target="_blank"]:not([href*="91porna.com"])
-91porna.com##div[class^="aspect-"]:has(> div > .swiper-backface-hidden)
 91porna.com##div[class^="col"] div.filters:has(a.checkNum)
-91porna.com#%#//scriptlet('remove-attr', 'data-ads_url', '[data-ads_url]')
 91porny.com###playerJsvLayer.jsv-layer
 91porny.com##.container-fluid.p-0[class*="mb-"]
 91porny.com##.jsv-g1
@@ -11750,6 +11742,15 @@ mesddl.cc###cboxContent
 mf.meizu.cn##.guide-suspend.suspend
 mfa.gov.cn,fmprc.gov.cn#@#.adbox2
 mfiles.pl###float_square
+mfulbvu.xyz,91porna.com###app-nav > ul > li:has(> a.app-nav-item[target="_blank"]:not([href*="91porna.com"]))
+mfulbvu.xyz,91porna.com##.ad-dialog
+mfulbvu.xyz,91porna.com##.dx-banner-item
+mfulbvu.xyz,91porna.com##.modal-backdrop
+mfulbvu.xyz,91porna.com##.text-mini:has(> .dx-recommend-icons)
+mfulbvu.xyz,91porna.com##.video-items > li:has(> a.checkNum)
+mfulbvu.xyz,91porna.com##a.checkNum[target="_blank"]:not([href*="91porna.com"])
+mfulbvu.xyz,91porna.com##div[class^="aspect-"]:has(> div > .swiper-backface-hidden)
+mfulbvu.xyz,91porna.com#%#//scriptlet('remove-attr', 'data-ads_url', '[data-ads_url]')
 mg21.com##a[href="https://www.mg21.com/zunjiazq"]
 mgbbs.cn##td[width="960"][height="60"]
 mgnacg.com##a[href^="https://fanqiev2.work/auth/register?code="]
@@ -16151,6 +16152,7 @@ zzzyk.com###Tinfo
 ||3dmgame.com/tools/gamead?
 ||3dwwwgame.com^$third-party
 ||3er88wn.com^
+||3exfu7vaxu.com^
 ||3ff6kjylmjs.top^
 ||3g.cn/baidualading/
 ||3g.cn/index.php?s=Index/adv&
@@ -17633,6 +17635,7 @@ zzzyk.com###Tinfo
 ||aos01080ss.xyz^
 ||aoshi.com/rbc.jpg
 ||aotu43.com/templates/defboot/js/duilian.js
+||aoydwg.icu^
 ||aoyou1.top^
 ||aoyou2.top^
 ||aoyou3.top^
@@ -18936,6 +18939,7 @@ zzzyk.com###Tinfo
 ||cgmalight.com^
 ||cgskys.xyz^
 ||cgyx.tv^
+||ch17axocue.top^
 ||chabadokor.com^
 ||chachefa.com/asdfasdfqwer/
 ||chahua.org/aimg/
@@ -20162,6 +20166,7 @@ zzzyk.com###Tinfo
 ||dvv9dkv.site^
 ||dvzk66.cn^
 ||dw.xcar.com.cn^*.gif?
+||dwbaazotho.com^
 ||dwfjtz.xyz^
 ||dwibjkdsn.com^
 ||dwstatic.com^*/newsPopup/
@@ -20621,6 +20626,7 @@ zzzyk.com###Tinfo
 ||f8dy.tv/template/m1938/js/b
 ||f8dy.tv/template/m1938/js/foot.js
 ||f8ejqxp.cn^
+||f9gv87zoq2.com^
 ||faamhel.com^
 ||faaqgje.icu^
 ||fabu333.top^
@@ -22995,6 +23001,7 @@ zzzyk.com###Tinfo
 ||jjztrz.xyz^
 ||jke1.jianke.com^
 ||jklhs7u.com^
+||jkn05300loi.com^
 ||jknnjk.com^
 ||jknrwe.cn^
 ||jktkhn.top^
@@ -25404,6 +25411,7 @@ zzzyk.com###Tinfo
 ||owsrgljb.icu^
 ||owurserk.top^
 ||oxj8hcfg.xyz^
+||oxjb.cn^
 ||oxkqeu.xyz^
 ||oyfnkle.cn^
 ||oyhurln.cn^
@@ -26053,6 +26061,7 @@ zzzyk.com###Tinfo
 ||qinxue100.com/qinxue/pc/js/add_js.js
 ||qishula.com/css/ding.js
 ||qishula.com/css/wap.
+||qiu4592.xyz^
 ||qiudbjwhy.com^
 ||qiuw.com/static/xin-ad.js
 ||qiuxl11.cn^

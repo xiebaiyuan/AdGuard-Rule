@@ -1,4 +1,4 @@
-# Update time: 2025-06-06 20:32:47
+# Update time: 2025-06-07 09:17:23
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3364,6 +3364,7 @@
 0.0.0.0 browser-tools.systems
 0.0.0.0 leavehomego.com
 0.0.0.0 askto.net
+0.0.0.0 ticketpayfee.com
 0.0.0.0 redirectchannel.net
 0.0.0.0 ehg-youtube.hitbox.com
 0.0.0.0 track.rediff.com

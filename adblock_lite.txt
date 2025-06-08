@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-06-08 09:24:36(GMT+8) 
-! Total count: 30468
+! ! Version: 2025-06-08 20:29:43(GMT+8) 
+! Total count: 30479
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18375,6 +18375,7 @@ zzzyk.com###Tinfo
 ||biz.gexing.com^
 ||biz.weibo.com^
 ||bj1.118pan.com^
+||bj5iodzgyi.com^
 ||bjcathay.com/s?z=
 ||bjfsk.xyz^
 ||bjhockey.org/public/pc/video/test.mp4
@@ -18426,6 +18427,7 @@ zzzyk.com###Tinfo
 ||bmp1.ali213.net/js/
 ||bmp1.ali213.net/pubjs/index_sc_utf8.js
 ||bmp2.ali213.net/js/
+||bmpdm3z282.com^
 ||bmptbyb.com^
 ||bmqulua.icu^
 ||bmyrihf.icu^
@@ -18736,6 +18738,7 @@ zzzyk.com###Tinfo
 ||caxhuuzto.com^
 ||cb.baidu.com^
 ||cb.com.cn/index/ad/
+||cbaokk.icu^
 ||cbdm.weathercn.com^
 ||cbdqzbi.icu^
 ||cbfw.cn/gonggong/chibi/cf_
@@ -21035,6 +21038,7 @@ zzzyk.com###Tinfo
 ||gbndash2.fun^
 ||gbqgwes.icu^
 ||gbrtyhnsc.xyz^
+||gbsmw33tfi.com^
 ||gbsp002.com^
 ||gca.sh/static/linkreplacer.js$script,third-party
 ||gcbflvx.cn^
@@ -23738,6 +23742,7 @@ zzzyk.com###Tinfo
 ||lfbz317s.icu^
 ||lfffzv.xyz^
 ||lfflvh.icu^
+||lfhthokieryf.com^
 ||lfjtiuy.cn^
 ||lfkheedokhld.com^
 ||lflmdm.com^
@@ -25416,6 +25421,7 @@ zzzyk.com###Tinfo
 ||paopaoche.net/public/bd/article_inc.js
 ||paopaoche.net/skins/count.js
 ||paopic.com/imguang/
+||papaw818.com^
 ||paradisemall.net^
 ||parnett55.xyz^
 ||partnerads.ysm.yahoo.com^
@@ -27626,6 +27632,7 @@ zzzyk.com###Tinfo
 ||thisav.com/nb/
 ||thisav.com/player/video-js-banner/
 ||thisav.video/v3/nb/
+||thljnv.top^
 ||thnuvgme.icu^
 ||thonkoirs.com^
 ||thoohizoogli.xyz^
@@ -28311,6 +28318,7 @@ zzzyk.com###Tinfo
 ||uteeo5018.com^
 ||utewyc.xyz^
 ||utienlt.top^
+||utihriethlv.com^
 ||utimiyt.top^
 ||utlove02.com^$third-party
 ||uttlinediv.top^
@@ -28676,6 +28684,7 @@ zzzyk.com###Tinfo
 ||w3cschool.cn/index/*Advert
 ||w3xue.com/js/pro541.js
 ||w41.i7x3.fun^
+||w4sn20zpvz.com^
 ||w51t.com^$subdocument
 ||w59g.icu^
 ||w7044.com^
@@ -29513,6 +29522,7 @@ zzzyk.com###Tinfo
 ||xunqrutsl.com^
 ||xunsu.cc/js/indexbottom.js
 ||xunyugong.xyz/sitejs/xunyugong.js
+||xupd.cn^
 ||xutvbt.icu^
 ||xuugnuits.com^
 ||xuwfmhh.icu^
@@ -29887,6 +29897,7 @@ zzzyk.com###Tinfo
 ||ytelc.com^
 ||ytelc.com^$third-party
 ||ytghtq.xyz^
+||yto3kavwud.com^
 ||ytoeyxz.icu^
 ||ytqeavc.icu^
 ||ytqlyw.xyz^

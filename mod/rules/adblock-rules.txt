@@ -130,3 +130,6 @@ cjcx.neea.edu.cn#@#[style="visibility: visible; display: block;"]
 !抖音疯狂请求
 ||polaris3-normal-hl.zijieapi.com^
 ||mssdk3-normal-lf.zijieapi.com^
+
+!windows上突然的爆发访问。
+||westus-0.in.applicationinsights.azure.com^

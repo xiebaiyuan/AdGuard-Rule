@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-06-21 09:16:58(GMT+8) 
-! Total count: 30504
+! ! Version: 2025-06-21 20:30:03(GMT+8) 
+! Total count: 30511
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -21033,6 +21033,7 @@ zzzyk.com###Tinfo
 ||gccnntq.cn^
 ||gcddashb3.fun^
 ||gcqciiqk.com^
+||gcsh3bxck.com^
 ||gcvcdashb2.fun^
 ||gcvgedashb3.fun^
 ||gcw*.2liang.cn^
@@ -21302,6 +21303,7 @@ zzzyk.com###Tinfo
 ||gqdfgyz.cn^
 ||gqoi.cn^
 ||gqwwshbdd1.fun^
+||gqxwfhe7o.com^
 ||graesol.com^
 ||grandcomms.cn^
 ||grarnuns.com^
@@ -22482,6 +22484,7 @@ zzzyk.com###Tinfo
 ||iocoder.cn/alert/js/alert.js
 ||ioiksw.cn^
 ||iojnask.com^
+||iokmey.icu^
 ||ionksfefe.xyz^
 ||iosppk.com^
 ||ioswhi.com^
@@ -24007,6 +24010,7 @@ zzzyk.com###Tinfo
 ||lpocne.top^
 ||lppfnf.icu^
 ||lpxmall.com^
+||lqdcvj.top^
 ||lqe3.icu^
 ||lqfctb.icu^
 ||lqftuugziloa.com^
@@ -24526,6 +24530,7 @@ zzzyk.com###Tinfo
 ||moa06191ju.com^
 ||moa06200ju.com^
 ||moa06201ju.com^
+||moa06210ju.com^
 ||mobads.baidu.com^
 ||mobads.baidu.com^$third-party
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
@@ -25432,6 +25437,7 @@ zzzyk.com###Tinfo
 ||paopaoche.net/skins/count.js
 ||paopic.com/imguang/
 ||papaw818.com^
+||paphzz.icu^
 ||paradisemall.net^
 ||parnett55.xyz^
 ||partnerads.ysm.yahoo.com^
@@ -28881,6 +28887,7 @@ zzzyk.com###Tinfo
 ||winniephc.com^
 ||winwin7.com/statics/js/pos_js/
 ||winwin7.com/statics/js/user/xz.
+||wio06210j7.com^
 ||wipbbok.com^
 ||wipew.com^
 ||wit.qq.com^$third-party

@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-06-22 20:30:05(GMT+8) 
-! Total count: 30520
+! ! Version: 2025-06-23 09:23:23(GMT+8) 
+! Total count: 30527
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1794,6 +1794,7 @@ $websocket,domain=wap.yushuwu.cloud
 .m.zineworm.com^
 .me/gg.js
 .men/ads/
+.moa0*ju.com/$script,xmlhttprequest,third-party
 .mos0*o9i.com/$script,xmlhttprequest,third-party
 .mp4?*sdtfrom=&$domain=m.v.qq.com
 .net/js/ads/
@@ -16203,6 +16204,7 @@ zzzyk.com###Tinfo
 ||4jc.icu^
 ||4kfv18.cn^
 ||4kwu.cc/static/js/tj.js
+||4kxczstxil.com^
 ||4oz4n.icu^
 ||4paradigm.com^$domain=sina.com.cn
 ||4po6iqp9.cn^
@@ -16474,6 +16476,7 @@ zzzyk.com###Tinfo
 ||67.21.92.*.gif
 ||670t5x.cn^
 ||6789.net^$third-party
+||67u36vmzm.com^
 ||6820tp1.com^
 ||68287zubo85737.com^
 ||68710266.com^
@@ -24538,6 +24541,8 @@ zzzyk.com###Tinfo
 ||moa06201ju.com^
 ||moa06210ju.com^
 ||moa06220ju.com^
+||moa06221ju.com^
+||moa06230ju.com^
 ||mobads.baidu.com^
 ||mobads.baidu.com^$third-party
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
@@ -26281,6 +26286,7 @@ zzzyk.com###Tinfo
 ||r3sub.com/posters/0069810.jpg
 ||r3sub.com/posters/00698128.jpg
 ||r3sub.com^*0.gif
+||r40h9qvpq.com^
 ||r4u.icu^
 ||r528e.cn^$third-party
 ||r5dfwjtb.icu^
@@ -28983,6 +28989,7 @@ zzzyk.com###Tinfo
 ||wpmdeo.xyz^
 ||wpoarjokzgi.com^
 ||wpsbaq.xyz^
+||wpuzzcudultv.com^
 ||wpwpquse.cn^
 ||wqdro6us.icu^
 ||wqdwork.com^

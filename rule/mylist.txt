@@ -55,6 +55,9 @@
 ||in-addr.arpa^$important
 ||.ip6.arpa^$important
 
+#阿拉丁
+||log.aldwx.com^$important
+
 !-----------------待定-----------------
 
 #美团推送(大众点评)

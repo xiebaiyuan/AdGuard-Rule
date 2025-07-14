@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-07-14 09:25:05(GMT+8) 
-! Total count: 30773
+! ! Version: 2025-07-14 20:36:00(GMT+8) 
+! Total count: 30783
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -16229,6 +16229,7 @@ zzzyk.com###Tinfo
 ||4po6iqp9.cn^
 ||4q87v.icu^
 ||4rcajmf0m.com^
+||4rfns9bmp1.com^
 ||4sexmail.com^
 ||4shared.com/js/blockDetect/blockDetect.4min.js$script
 ||4sq.icu^
@@ -18588,6 +18589,7 @@ zzzyk.com###Tinfo
 ||bubmhm.top^
 ||bucnmtv.top^
 ||bucnwtv.top^
+||budgetea.top^
 ||bugly.qq.com^
 ||bujiangjiu123.com^
 ||bujlmitd.icu^
@@ -20408,6 +20410,7 @@ zzzyk.com###Tinfo
 ||ehfjup.xyz^
 ||ehk.trenhdg.com^
 ||ehmhqcn.cn^
+||ehox67pahs.com^
 ||ei1s7b.cn^
 ||ei7.icu^
 ||eiadf.xyz^
@@ -20698,6 +20701,7 @@ zzzyk.com###Tinfo
 ||faxingw.cn/js/*0
 ||faxingw.cn/js/*ad
 ||faxingw.cn/js/detailgcbox.js
+||fb2newr2nm.com^
 ||fbhkxt.icu^
 ||fbhorutgy.com^
 ||fbphnn.icu^
@@ -22159,6 +22163,8 @@ zzzyk.com###Tinfo
 ||huo07121hy.com^
 ||huo07130hy.com^
 ||huo07131hy.com^
+||huo07140hy.com^
+||huo07141hy.com^
 ||huo720.com/back/ad_
 ||huo720.com/files/vidhub
 ||huobaowang.com/meeting/js/hbchat.
@@ -23468,6 +23474,7 @@ zzzyk.com###Tinfo
 ||kdopag.xyz^
 ||kdoshbd.top^
 ||kdou.com/ad_js.php?adid=
+||kdow.cn^
 ||kdpic.pchome.com.tw^
 ||kdqnaec.cn^
 ||kdvmnn.com^
@@ -24585,6 +24592,7 @@ zzzyk.com###Tinfo
 ||mhaw.cn^
 ||mhdnspro.com^
 ||mhhanman.xyz/data/my/myjs.js
+||mhoiia.icu^
 ||mhslbgk.cn^
 ||mhwy6.icu^
 ||mhysbwo.xyz^
@@ -25770,6 +25778,7 @@ zzzyk.com###Tinfo
 ||phpstudyimg.com/all/hrl.gif
 ||phpstudyimg.com/all/xiaojieqiantie.gif
 ||phputils.wc-os.com^
+||phqew.cn^
 ||phuustikd.com^
 ||phx9cqla2.com^
 ||phxdrf.icu^
@@ -28172,6 +28181,7 @@ zzzyk.com###Tinfo
 ||ttimiyi.top^
 ||ttly888.com^
 ||ttroytj33.fun^
+||tttddb.icu^
 ||tttppp.oss-cn-guangzhou.aliyuncs.com^
 ||ttvosc.com^
 ||ttykabh.icu^

@@ -2,7 +2,7 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-07-20 20:32:22(GMT+8) 
+! ! Version: 2025-07-21 09:27:36(GMT+8) 
 ! Total count: 30855
 ###ADtip
 ###Ad_windows

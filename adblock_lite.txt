@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-07-22 09:23:19(GMT+8) 
-! Total count: 30819
+! ! Version: 2025-07-22 20:36:10(GMT+8) 
+! Total count: 30824
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -16820,6 +16820,7 @@ zzzyk.com###Tinfo
 ||9fgh98k.com^
 ||9fum.ifeng.com^
 ||9fwz.com^
+||9hyf6wsiv5.com^
 ||9ihome.com/info/ADTopvnet/
 ||9ist.com/others/ad/
 ||9js6.icu^
@@ -24453,6 +24454,7 @@ zzzyk.com###Tinfo
 ||market.178.com^
 ||market.21cn.com^
 ||market.duowan.com^
+||marketpd4.top^
 ||masadora.net/kakusan-
 ||masdk.3g.qq.com^
 ||masturbation22.com/d/
@@ -24820,6 +24822,7 @@ zzzyk.com###Tinfo
 ||mssdhde.cn^
 ||mssdk.volces.com^
 ||mssdk3-normal-lf.zijieapi.com^
+||msslwa.icu^
 ||msstatic.com/huya/main/img/mc-recom_
 ||msstatic.com/huya/main3/widget/DiyActLayer/DiyActLayer_*.js
 ||msstatic.com/huya/main3/widget/roomGg
@@ -28495,6 +28498,7 @@ zzzyk.com###Tinfo
 ||ujovcb.cn^
 ||uk0.icu^
 ||uk529u0.cn^
+||ukfp.cn^
 ||ukitert.top^
 ||ukjwyv.icu^
 ||ukkiftx.icu^
@@ -30620,6 +30624,7 @@ zzzyk.com###Tinfo
 ||ziweuu.com^
 ||ziyuanm.com/js/g11.js
 ||zj-yxw.com^
+||zj9puq8ycu.com^
 ||zjen.cn^
 ||zjg.js.cn/Public/config/Couplet/Index4
 ||zjgfq.com^$third-party

@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-07-24 09:23:47(GMT+8) 
-! Total count: 30835
+! ! Version: 2025-07-24 20:36:36(GMT+8) 
+! Total count: 30848
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -161,6 +161,7 @@
 ###imgad
 ###imgs5[height="60px"]
 ###index_aside_ad
+###index_banner[src*=".imgdd.com"]
 ###index_banner[src*=".meituan.net"]
 ###index_content_ad
 ###j-new-ad
@@ -711,7 +712,6 @@
 ##.player-box-main > .rm-one > a[start-time]
 ##.player-info > .recommend-two.recommend-list
 ##.player-news > .news-list
-##.player-rm > a[href*=".umtrack.com"]
 ##.player-rm > a[href*="/ad.html?url="]
 ##.player-rm-float
 ##.player-tt-rm.rm-list
@@ -745,6 +745,7 @@
 ##.recommended-grids > .file[style="margin: 5px 2px 5px 2px;"]
 ##.relative > div > img[sizes="100vh"][width="0"]
 ##.right > .content > .ads
+##.rm-two > a[href*=".umtrack.com"]
 ##.room-ad-bottom
 ##.room-ad-top
 ##.room-ad-video-down
@@ -1264,6 +1265,7 @@
 ##a[href*="/entry/register"][href*="i_code"]
 ##a[href*="/gg1132.vip"]
 ##a[href*="/h91.tv"]
+##a[href*="/hs63.cc"]
 ##a[href*="/kt169.com"]
 ##a[href*="/l1y9.com"]
 ##a[href*="/mobads.php?"]
@@ -3929,6 +3931,7 @@ $websocket,domain=wap.yushuwu.cloud
 58pic.com##.xyyh
 591hx.com##.banner_w
 5dm.app##[src*="sinaimg.cn"]
+5dm.link###player_pause
 5dm.link#@#.tm-share-this
 5dy15.cc##div[id][class^="is_"][style^="margin"]
 5eplay.com##img[width="1240"]
@@ -8198,6 +8201,7 @@ doc88.com##.dk-side-gif
 docer.com##.popup
 docin.com###docindex_ad
 docin.com##.cpro_mod
+docin.com##.mini-series-container
 docin.com##.moneyBox
 docin.com##.sider_gg
 docs.cfw.lbyczf.com###推广
@@ -8561,7 +8565,7 @@ elecinfo.com##div[class$="-advert"]
 element-plus.gitee.io##.sidebar > .page-content
 element-plus.gitee.io##.toc-content > .m-t-16px
 element-plus.gitee.io##aside > .page-content
-element-plus.org##.doc-content-sidebar
+element-plus.org##.doc-sidebar-content
 elle.com.hk##.tpc-container
 elle.com.hk#?#article > div.block-default:has(> div.content-wrapper p > span:contains(Cosmart))
 embedrise.com#%#//scriptlet('prevent-window-open')
@@ -11988,6 +11992,7 @@ mydrivers.com##.yTv3AMqP
 mydrivers.com##a[href*=".dangbei.com"]
 mydrivers.com##div[class^="jdong11"]
 mydrivers.com##div[style*="/ad/"]
+mydrivers.com##div[style="margin: auto;width: 580px;padding: 10px 0;"]
 mydrivers.com##div[style="margin: auto;width: 800px;padding: 10px 0;"]
 mydrivers.com##div[style^="position:fixed;left:50%;bottom:200px;"]
 mydrivers.com#?#.newslist > li:has(> span:contains(广 告))
@@ -17805,6 +17810,7 @@ zzzyk.com###Tinfo
 ||auy07201km.com^
 ||auy07210km.com^
 ||auy07211km.com^
+||auy07240km.com^
 ||av-yoyo.com/images/*.gif
 ||av01.tv/av01/floating_video_ads
 ||av01.tv/images/partners/
@@ -19529,6 +19535,7 @@ zzzyk.com###Tinfo
 ||d6.mobaders.com^
 ||d67p.com/love/
 ||d8962a.xyz^
+||d9q4aa05g4.com^
 ||da-fan-shu.cn/images/kuaijie.jpg
 ||da.daji.com^
 ||da.duowan.com/loc/
@@ -20839,6 +20846,7 @@ zzzyk.com###Tinfo
 ||fiu07090kl.com^
 ||fiu07100kl.com^
 ||fiu07101kl.com^
+||fiwf54qahl.com^
 ||fiwyjar.cn^
 ||fj.sina.com.cn/iframe/63/
 ||fjbglfrv.com^
@@ -22431,6 +22439,7 @@ zzzyk.com###Tinfo
 ||igo.cn/liuxue/js/slideBar
 ||igo99.cn/js/freetest.js
 ||igscn.com^
+||igtx.cn^
 ||ih336.com^*a.js
 ||ihclam.cn^
 ||ihearsoh.com^
@@ -24785,6 +24794,7 @@ zzzyk.com###Tinfo
 ||motuopj.cn^
 ||mountain.zhidao.baidu.com^
 ||mouseflow.com^
+||mouthop3.com^
 ||movshow.com/*portal/
 ||mowenxi.com/1.png
 ||moxiaoqihuoguo.com^
@@ -26309,6 +26319,7 @@ zzzyk.com###Tinfo
 ||qksapp.net/gif/
 ||qktmwiq.cn^
 ||ql.uzuzuz.com^
+||qlkysc.icu^
 ||qlogo.cn^$domain=chichiav1.xyz
 ||qm2.icu^
 ||qmavyy.icu^
@@ -27735,6 +27746,7 @@ zzzyk.com###Tinfo
 ||t.atomicfile.cn^
 ||t.cn^$domain=28kys.com|92kvip.com
 ||t.yzwr588.com^$third-party
+||t0cv7pmo2y.com^
 ||t0pan.top^
 ||t0sfe1.com^
 ||t1.612.com^
@@ -29155,6 +29167,7 @@ zzzyk.com###Tinfo
 ||wfiles.hcomic.net/indexSwiper/*_*x*_*_TC_gif.gif
 ||wfndponfd.com^
 ||wfsmya.xyz^
+||wgceetonr.com^
 ||wgoeisdnlk.com^
 ||whackyvidz.com/Webservices/jsParseLinks.aspx$script,third-party
 ||whackyvidz.com/visitScript/$script,third-party

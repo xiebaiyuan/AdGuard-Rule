@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-07-27 20:33:28(GMT+8) 
-! Total count: 30884
+! ! Version: 2025-07-28 09:29:04(GMT+8) 
+! Total count: 30885
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -171,7 +171,6 @@
 ###js_ads_banner_top_slide
 ###k2Uw7isHrMm5JXP1Vwdxc567ZKc1aZ4I
 ###kfpopupDiv
-###kp-hid-gb.uk-alert
 ###kp-hid-sport-m.fed-part-layout.fed-back-whits.fed-hide-md.uk-alert
 ###ks > .DaKuang
 ###ldgindexbuttom
@@ -804,6 +803,7 @@
 ##.txp_ad[data-role="txpad-interact-pause"]
 ##.txp_ad_center
 ##.txtguanggao
+##.uk-container.uk-container-expand
 ##.uk-width-1-1.adbox
 ##.vg-overlay-pause
 ##.video-ad-item
@@ -21786,6 +21786,7 @@ zzzyk.com###Tinfo
 ||hdinmiu.top^
 ||hdipsumu.top^
 ||hdjthzg.cn^
+||hdmoli.pro/a_d/
 ||hdomsiu.top^
 ||hdoshbu.top^
 ||hdpdrandpd.xyz^

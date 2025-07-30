@@ -1,4 +1,4 @@
-# Update time: 2025-07-29 20:37:57
+# Update time: 2025-07-30 09:26:16
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -5757,6 +5757,7 @@
 0.0.0.0 morning-maps.com
 0.0.0.0 ads2.clearchannel.com
 0.0.0.0 go.onclasrv.com
+0.0.0.0 ads.mozilla.org
 0.0.0.0 www.star-advertising.com
 0.0.0.0 gcirm.greatfallstribune.com
 0.0.0.0 alyssamilano.home.sapo.pt

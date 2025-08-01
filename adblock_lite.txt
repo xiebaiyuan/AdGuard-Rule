@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-07-31 20:35:36(GMT+8) 
-! Total count: 30944
+! ! Version: 2025-08-01 09:43:16(GMT+8) 
+! Total count: 30946
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -14040,7 +14040,7 @@ tmall.com##.mui-mbarp-qrcode-hd-d.mui-mbarp-qrcode-hd
 tmall.com##.mui-mbarp-qrcode-tip
 tmall.com##.sn-mobile
 tmall.com##div[style*="z-index: 99999; display: block;"]
-tmioe.com##.ekssxhn
+tmioe.com##.ekxxhn
 tmioe.com##.widget_image_img
 tmioe.com##a[href*=".zps.im"]
 tmtpost.com##.open-app
@@ -19911,6 +19911,7 @@ zzzyk.com###Tinfo
 ||dklnxtcj.icu^
 ||dklvhfrnvr.com^
 ||dklwddl.cn^
+||dkngfkgbc.com^
 ||dktad.com^
 ||dkweuy.com^
 ||dl.dropbox.com/u/50417078/gerador/LonelyHeart.mp3
@@ -26269,6 +26270,7 @@ zzzyk.com###Tinfo
 ||qgg7e.icu^
 ||qguwoq.cn^$third-party
 ||qhaarkie.com^
+||qhaazaduez.com^
 ||qhaccid.com^
 ||qhanphietd.com^
 ||qhatarsl.com^

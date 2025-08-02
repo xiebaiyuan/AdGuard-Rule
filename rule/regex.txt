@@ -1,4 +1,4 @@
-# Update time: 2025-08-01 20:36:28
+# Update time: 2025-08-02 09:22:14
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -139,6 +139,7 @@ advertisers.js|
 ||uc*.atobo.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
+||bdlm*.hc360.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||fpb*.51edu.com^
@@ -161,6 +162,7 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||ad*.aginomoto.com
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -262,7 +264,6 @@ advertisers.js|
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
-||ad*.aginomoto.com
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||ping*.qq.com^
@@ -270,6 +271,8 @@ advertisers.js|
 ||sd.yhzzzs*.com^
 ||host*.carl-ras.dk^
 ||ads*.dfiles.ru^
+||log*-normal-*.tiktokv.us^
+||hw-sh-pcdn-*.biliapi.net^
 ||faro-collector-prod-*.grafana.net^
 ||lt*.tritondigital.com^
 ||api-*.hismarttv.com^
@@ -279,6 +282,7 @@ advertisers.js|
 ||mon-*.lemon8-app.us^
 ||mon-*.lemon8-app.com^
 ||telemetry*.transcend.io^
+||log*-misc-lf.amemv.com^
 ||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||opnked*.xyz^
@@ -308,19 +312,21 @@ advertisers.js|
 ||display-ad-*.kgslb.com^
 ||ac*.pingguolv.com^
 ||tnc*.tiktokv.us^
-||mistat.*.xiaomi.com^
 ||ad*.ettoday.net^
 ||report*.appmetrica.webvisor.com^
 ||beacons*.gvt3.com^
 ||ads*.bojijulebu.com^
 ||js.*2023*.xyz^
 ||flurry.agentportal.*.yahoodns.net^
+||rtlog*.tiktokv.com^
 ||ads.*.kugou.com^
 ||api-*.bidmachine.io^
 ||logservice-*.platform.dbankcloud.cn^
 ||clickstream-*.homedepot.com^
+||log*-normal-useast1a.lemon8-app.com^
 ||stat*.1internet.tv^
 ||dj1*.online^
+||log*.byteoversea.com^
 ||ad.*.xiaomi.com^
 ||mon*-misc-lf.fqnovel.com^
 ||mon*-misc.fqnovel.com^
@@ -354,15 +360,15 @@ advertisers.js|
 ||mcs-*.lemon8-app.com^
 ||cdn-adn-*.rayjump.com^
 ||zahrvfbd*.xyz^
-||stlog*-local.kakao.com^
+||log-va*.capcutapi.com^
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||p2pup*.gamedl.qq.com^
 ||zcchyr*.xyz^
 ||zaqlovh*.xyz^
 ||ad*.zonaplus.tv^
 ||datacollector-*.dt.hicloud.com^
+||n*adserv.xyz^
 ||piwik.*.vn^
-||sonar*.xy.fbcdn.net^
 ||adsfilebssdlbig.*.kugou.com^
 ||mautic.*.vn^
 ||mcs-*.lemon8-app.us^
@@ -373,13 +379,13 @@ advertisers.js|
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
 ||collector-*.tvsquared.com^
+||log-*.previewnetworks.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
 ||event.*.shoplive.cloud^
 ||auth-*.hismarttv.com^
 ||ws-p2p*pull*com^
 ||batchlogging*-eu.truecaller.com^
-||stats-*.p2pnow.ru^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
 ||eum*.instana.io^
@@ -398,7 +404,6 @@ advertisers.js|
 ||pangolin-sdk-toutiao*.com^
 ||collector-*.luigisbox.com^
 ||clog*.yuanfudao.com^
-||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||api16-access-ttp*.tiktokpangle-b.us^
@@ -406,9 +411,12 @@ advertisers.js|
 ||analytics-*-nfl.yinzcam.com^
 ||sdk-*.moengage.com^
 ||ad*.on.cc^
+||liveme-sensors-collect2-*.amazonaws.com^
+||rtlog*.tiktokv.us^
 ||st-*.dynamicyield.com^
 ||host*.ncoi.nl^
 ||ulog-*.ksapisrv.com^
+||lively-collect-elb-*.amazonaws.com^
 ||analytics-rollout-*.amazonaws.com^
 ||qn-*pcdn.cdn.huya.com^
 ||zazgiyoh*.world^
@@ -421,6 +429,8 @@ advertisers.js|
 ||www.xxmh*.com^
 ||cas.*.criteo.com^
 ||datacollector-*.dt.dbankcloud.cn^
+||n*adserv.com^
+||ks-p2p*pull*com^
 ||apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com^
 ||batchlogging*-noneu.truecaller.com^
 ||apple-*.le.com^
@@ -446,6 +456,7 @@ advertisers.js|
 ||mon*-*.tiktokv.com^
 ||collector-*.px-client.net^
 ||ej1*.online^
+||log-*.epicdn.me^
 ||stat.*.v-56.com^
 ||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
@@ -454,6 +465,7 @@ advertisers.js|
 ||xy-*pcdn.msstatic.com^
 ||ac*.faxingchina.com^
 ||use-trk*.bluevoox.com^
+||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||beacon-*.helpscout.net^
 ||adcs-*.myappsget.com^
@@ -463,6 +475,8 @@ advertisers.js|
 ||player-feedback*.glomex.*^
 ||res*.pinpai8.cn^
 ||zcchyw*.xyz^
+||log*-misc-lq.amemv.com^
+||log*.vietnamplus.vn^
 ||hn-ping*.hashnode.com^
 ||mcdp-*.outbrain.com^
 ||prod.*.analytics.console.aws.a2z.com^
@@ -495,14 +509,13 @@ advertisers.js|
 ||banner.*.tccapis.com^
 ||geoloc*.geostats.ovh^
 ||ssp*.rtb.beeline.ru^
+||log-*.zadn.vn^
 ||api*.moengage.com^
 ||hba*.hepsiburada.com^
 ||qn-*pcdn.cdn.msstatic.com^
 ||mon-va*.capcutapi.com^
 ||js.*2023*.live^
 ||collect-v*.51.la^
-||logger-*.dailymotion.com^
-||bdlm*.hc360.com^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
@@ -510,80 +523,66 @@ advertisers.js|
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
 ||tracking-*.trnox.com^
+||hw-p2p*pull*com^
 ||gtlpa*.com^
 ||ali-p2p*pull*com^
+||log*-normal-lq.toutiaoapi.com^
 ||quangcao-*.epicdn.me^
 ||aem-collector-*.kgslb.com^
 ||analytics-ad-*.kgslb.com^
 ||aj2*.bid^
 ||analytics*.prezly.com^
 ||collector*.ex.co^
+||ad*.gyaloglo.hu^
+||ad*.thisisgame.com^
 ||adserver*.euroweeklynews.com^
+||alishop*.ru^
+||adverticum.*.hu^
 ||bar*.shinobi.jp^
-||log*-misc-lq.amemv.com^
-||log*.vietnamplus.vn^
+||dw-informer-*.newsru.com^
+||q*-publick.club^
+||fls-*.amazon.com^
+||logger-*.dailymotion.com^
+||banner*.kinogo.by^
+||minitds-*.info^
+||sonar*.xy.fbcdn.net^
 ||sensorsdata*.read.duokan.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
+||ad.*.doubleclick.net^
 ||ad*.bilgin.pro^
-||liveme-sensors-collect2-*.amazonaws.com^
-||rtlog*.tiktokv.us^
-||log*-normal-*.tiktokv.us^
+||s*.adduplex.com^
+||basvformu*.xyz^
+||ad*.mellesleg.hu^
+||pangolin*.sgsnssdk.com^
 ||subnewss*.net^
+||ads-*.v.ssp.yahoo.com^
 ||etargetnet.*.hu^
-||hw-sh-pcdn-*.biliapi.net^
-||lively-collect-elb-*.amazonaws.com^
+||sher.*.hu^
 ||partner.superbahisaffiliates*.com^
+||mistat.*.xiaomi.com^
+||broredir*s.site^
+||stats-*.p2pnow.ru^
 ||v.tzbox*.xyz^
 ||v.newsportal*.ru^
 ||api.*.hismarttv.com^
 ||u*.takru.com^
 ||advert*.ultraweb.hu^
 ||as*.prog.hu^
-||log*-misc-lf.amemv.com^
+||rehs.*.hu^
+||cdn*.swaxis.com^
+||adimg*.search.naver.net^
 ||staging-*.ispot.tv^
 ||gonews*.net^
 ||real*traf.ru^
-||n*adserv.com^
-||ks-p2p*pull*com^
-||log-va*.capcutapi.com^
-||log-*.zadn.vn^
-||hbbtv.*.de^
-||orbit*.lun.ua^
-||ad*.gyaloglo.hu^
-||ad*.thisisgame.com^
-||alishop*.ru^
-||adverticum.*.hu^
-||dw-informer-*.newsru.com^
-||n*adserv.xyz^
-||q*-publick.club^
-||fls-*.amazon.com^
-||banner*.kinogo.by^
-||minitds-*.info^
-||cl*.k5a.io^
-||ad.*.doubleclick.net^
-||s*.adduplex.com^
-||basvformu*.xyz^
-||ad*.mellesleg.hu^
-||pangolin*.sgsnssdk.com^
-||hw-p2p*pull*com^
-||ads-*.v.ssp.yahoo.com^
-||log-*.previewnetworks.com^
-||sher.*.hu^
-||log-*.epicdn.me^
-||broredir*s.site^
-||log*-normal-lq.toutiaoapi.com^
-||rehs.*.hu^
-||cdn*.swaxis.com^
-||rtlog*.tiktokv.com^
-||adimg*.search.naver.net^
-||log*-normal-useast1a.lemon8-app.com^
-||log*.aliyuncs.com^
 ||lianmeng*.*^
 ||rb*.design.ru^
-||log*.byteoversea.com^
+||hbbtv.*.de^
+||orbit*.lun.ua^
+||stlog*-local.kakao.com^
 analytics-*.aasaam.com
 ||an.yandex.
 ||gtmdev.jabra.
+||creative*.bidease.com^
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
 ||rum*.a.trbcdn.net^
@@ -689,6 +688,7 @@ analytics-*.aasaam.com
 ||letssex.
 ||production-adserver-*.amazonaws.com^
 ||iad-*.appboy.com^
+||cl*.k5a.io^
 ||jtbo*.nqxvevk.cn^
 ||polaris*-normal-*.zijieapi.com^
 ||analytics.ahrefs.
@@ -724,6 +724,36 @@ analytics-*.aasaam.com
 ||v*.sitecounter.site^
 ||data.anisearch.
 ||imgpfx.arenavision.
+<script>
+    <noscript>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+			Buy this domain. | More domains at Seo.Domains
+                }
+            2025 Copyright | All Rights Reserved.
+                console.log(JSON.parse(xhr.responseText))
+<style>
+        ];
+<head>
+    Privacy Policy
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
 ||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe

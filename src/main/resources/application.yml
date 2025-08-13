@@ -23,7 +23,7 @@ application:
       #- 'https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt' #HalfLife（pc）
       #- 'https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt' #Adgk
       #- 'https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts.txt' #yhosts
-      - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #大圣净化
+      #- 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #大圣净化
       #- 'https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list' #Domains classified as tracking or advertising
       #- 'https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt' #AdRules AdGuard Full List
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt' #adguard base
@@ -33,7 +33,7 @@ application:
       - 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt' #name: AdGuard CNAME 伪装跟踪器列表
       - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt' #name: AdGuard DNS filter
       - 'https://raw.githubusercontent.com/Crystal-RainSlide/AdditionalFiltersCN/master/CN.txt' #name: AdditionalFiltersCN
-      - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' #name: ADgk 移动广告规则
+      #- 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' #name: ADgk 移动广告规则
       - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt' #name: 乘风 广告过滤规则
       - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt' #name: 乘风 视频过滤规则
       - 'https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt' #name: HalfLife_合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -47,7 +47,7 @@ application:
       #- 'https://file.trli.club:2087/ad-youtube-hosts/ad-youtube-adguardhome-dnstype.txt' #name: 冷莫(trli)Ad-YouTuBe-Hosts
       - 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt' #name: 杏稍AdRules DNS List
       - 'https://raw.githubusercontent.com/xiebaiyuan/AdGuard-Rule/adrules/dns.txt' #name: catteam
-      - 'https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/AdGuard/Advertising/Advertising.txt' #name: AdGuard_blackmatrix7合并
+      #- 'https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/AdGuard/Advertising/Advertising.txt' #name: AdGuard_blackmatrix7合并
       - 'https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt' #name: 知乎 普通版
       #- 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt' #name: 217heidai/adblockfilters去重合并(比较大)
       - 'https://raw.githubusercontents.com/timlu85/AdGuard-Home_Youtube-Adfilter/master/Youtube-Adfilter-Web.txt' #name: Youtube-Adfilter-Web
